@@ -1,0 +1,133 @@
+import type { Photo } from "../types";
+
+const local = (file: string) => `./images/${file}`;
+const credit = "Imagen generada para Perú Journey 2026";
+
+export const photos: Record<string, Photo> = {
+  madrid: {
+    url: local("madrid.jpg"),
+    alt: "Madrid al inicio del viaje",
+    caption: "Madrid, salida y regreso",
+    credit,
+    sourceUrl: local("madrid.jpg"),
+  },
+  lima: {
+    url: local("lima-miraflores.jpg"),
+    alt: "Costa de Lima y Miraflores al atardecer",
+    caption: "Lima y Miraflores",
+    credit,
+    sourceUrl: local("lima-miraflores.jpg"),
+  },
+  miraflores: {
+    url: local("lima-miraflores.jpg"),
+    alt: "Malecón de Miraflores junto al Pacifico",
+    caption: "Miraflores y Costa Verde",
+    credit,
+    sourceUrl: local("lima-miraflores.jpg"),
+  },
+  barranco: {
+    url: local("lima-miraflores.jpg"),
+    alt: "Ambiente costero de Lima cerca de Barranco",
+    caption: "Barranco y costa limeña",
+    credit,
+    sourceUrl: local("lima-miraflores.jpg"),
+  },
+  arequipa: {
+    url: local("arequipa.jpg"),
+    alt: "Arequipa con arquitectura blanca y volcan al fondo",
+    caption: "Arequipa, ciudad blanca",
+    credit,
+    sourceUrl: local("arequipa.jpg"),
+  },
+  santaCatalina: {
+    url: local("arequipa.jpg"),
+    alt: "Arquitectura colonial de Arequipa",
+    caption: "Arequipa historica",
+    credit,
+    sourceUrl: local("arequipa.jpg"),
+  },
+  sacredValley: {
+    url: local("valle-sagrado.jpg"),
+    alt: "Valle Sagrado con montanas verdes",
+    caption: "Valle Sagrado",
+    credit,
+    sourceUrl: local("valle-sagrado.jpg"),
+  },
+  pisac: {
+    url: local("valle-sagrado.jpg"),
+    alt: "Paisaje del Valle Sagrado cerca de Pisac",
+    caption: "Pisac y Valle Sagrado",
+    credit,
+    sourceUrl: local("valle-sagrado.jpg"),
+  },
+  maras: {
+    url: local("valle-sagrado.jpg"),
+    alt: "Paisaje andino del Valle Sagrado cerca de Maras",
+    caption: "Maras y salineras",
+    credit,
+    sourceUrl: local("valle-sagrado.jpg"),
+  },
+  moray: {
+    url: local("valle-sagrado.jpg"),
+    alt: "Terrazas y montanas del Valle Sagrado",
+    caption: "Moray",
+    credit,
+    sourceUrl: local("valle-sagrado.jpg"),
+  },
+  ollantaytambo: {
+    url: local("valle-sagrado.jpg"),
+    alt: "Valle Sagrado camino a Ollantaytambo",
+    caption: "Ollantaytambo",
+    credit,
+    sourceUrl: local("valle-sagrado.jpg"),
+  },
+  aguasCalientes: {
+    url: local("machu-picchu.jpg"),
+    alt: "Montanas alrededor de Machu Picchu Pueblo",
+    caption: "Aguas Calientes",
+    credit,
+    sourceUrl: local("machu-picchu.jpg"),
+  },
+  machuPicchu: {
+    url: local("machu-picchu.jpg"),
+    alt: "Machu Picchu entre montanas",
+    caption: "Machu Picchu",
+    credit,
+    sourceUrl: local("machu-picchu.jpg"),
+  },
+  cusco: {
+    url: local("cusco.jpg"),
+    alt: "Centro histórico de Cusco con luz calida",
+    caption: "Cusco histórico",
+    credit,
+    sourceUrl: local("cusco.jpg"),
+  },
+  qorikancha: {
+    url: local("cusco.jpg"),
+    alt: "Calles historicas de Cusco",
+    caption: "Qorikancha y centro de Cusco",
+    credit,
+    sourceUrl: local("cusco.jpg"),
+  },
+  amazon: {
+    url: local("amazonia.jpg"),
+    alt: "Río y selva amazónica cerca de Tambopata",
+    caption: "Amazonía / Tambopata",
+    credit,
+    sourceUrl: local("amazonia.jpg"),
+  },
+  puertoMaldonado: {
+    url: local("amazonia.jpg"),
+    alt: "Selva y rio en Madre de Dios",
+    caption: "Puerto Maldonado y Madre de Dios",
+    credit,
+    sourceUrl: local("amazonia.jpg"),
+  },
+  train: {
+    url: local("machu-picchu.jpg"),
+    alt: "Ruta andina hacia Machu Picchu",
+    caption: "Camino a Machu Picchu Pueblo",
+    credit,
+    sourceUrl: local("machu-picchu.jpg"),
+  },
+};

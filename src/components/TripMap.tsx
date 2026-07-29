@@ -61,27 +61,32 @@ export function TripMap({
 }) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<LeafletMap | null>(null);
-  const placeById = useMemo(() => new Map(places.map((place) => [place.id, place])), [places]);
+  const mapPlaces = useMemo(() => places.filter((place) => place.id !== "madrid"), [places]);
+  const placeById = useMemo(() => new Map(mapPlaces.map((place) => [place.id, place])), [mapPlaces]);
 
   const visibleTransfers = useMemo(
-    () => transfers.filter((transfer) => filters.mode === "all" || filters.mode === transfer.mode),
+    () =>
+      transfers.filter(
+        (transfer) =>
+          !transfer.placeIds.includes("madrid") && (filters.mode === "all" || filters.mode === transfer.mode),
+      ),
     [filters.mode, transfers],
   );
 
   const visiblePlaceIds = useMemo(() => {
     const mode = filters.mode;
-    if (mode === "all") return new Set(places.map((place) => place.id));
-    if (mode === "hotels") return new Set(places.filter((place) => place.kind === "hotel").map((place) => place.id));
+    if (mode === "all") return new Set(mapPlaces.map((place) => place.id));
+    if (mode === "hotels") return new Set(mapPlaces.filter((place) => place.kind === "hotel").map((place) => place.id));
     if (mode === "activities") {
-      return new Set(places.filter((place) => ["sitio", "actividad"].includes(place.kind)).map((place) => place.id));
+      return new Set(mapPlaces.filter((place) => ["sitio", "actividad"].includes(place.kind)).map((place) => place.id));
     }
     const ids = new Set<string>();
     visibleTransfers.forEach((transfer) => transfer.placeIds.forEach((id) => ids.add(id)));
-    places
+    mapPlaces
       .filter((place) => place.transportModes?.includes(mode))
       .forEach((place) => ids.add(place.id));
     return ids;
-  }, [filters.mode, places, visibleTransfers]);
+  }, [filters.mode, mapPlaces, visibleTransfers]);
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
@@ -134,7 +139,7 @@ export function TripMap({
       }
     });
 
-    places
+    mapPlaces
       .filter((place) => visiblePlaceIds.has(place.id))
       .forEach((place) => {
         const marker = L.marker([place.coordinates.lat, place.coordinates.lng], {
@@ -162,7 +167,7 @@ export function TripMap({
         marker.on("dblclick", () => onOpen(placeToDetail(place)));
       });
 
-    const visiblePlaces = places.filter((place) => visiblePlaceIds.has(place.id));
+    const visiblePlaces = mapPlaces.filter((place) => visiblePlaceIds.has(place.id));
     if (visiblePlaces.length > 1) {
       const bounds = L.latLngBounds(visiblePlaces.map((place) => [place.coordinates.lat, place.coordinates.lng]));
       map.fitBounds(bounds, { padding: [36, 36], maxZoom: filters.mode === "all" ? 5 : 9 });
@@ -171,7 +176,7 @@ export function TripMap({
     return () => {
       layer.remove();
     };
-  }, [filters.mode, onOpen, placeById, places, visiblePlaceIds, visibleTransfers]);
+  }, [filters.mode, mapPlaces, onOpen, placeById, visiblePlaceIds, visibleTransfers]);
 
   return (
     <section className="relative z-0 rounded-lg border border-stone-200 bg-white p-3 sm:p-4">

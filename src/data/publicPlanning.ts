@@ -41,6 +41,19 @@ export const criticalTasks: CriticalTask[] = [
     links: [{ label: "Monasterio de Santa Catalina", url: "https://santacatalina.org.pe/" }],
   },
   {
+    id: "arequipa-late-arrival",
+    title: "Avisar al alojamiento de Arequipa de la llegada nocturna",
+    due: "Antes del vuelo Lima-Arequipa",
+    status: "pendiente",
+    risk: "low",
+    priority: "secundario",
+    details: [
+      "Con el horario de referencia 19:20-20:49 y la recogida de equipaje, la llegada al alojamiento se prevé entre las 22:00 y las 22:30.",
+      "Enviar un aviso breve desde la plataforma de reserva para que la recepción tenga anotado el check-in tardío. No hace falta reservar traslado del hotel si se usará Uber.",
+    ],
+    links: [{ label: "Casa Andina Select Arequipa Plaza", url: "https://www.casa-andina.com/es/destinos/arequipa/hoteles/casa-andina-select-arequipa-plaza" }],
+  },
+  {
     id: "boleto-turistico",
     title: "Comprar el Boleto Turístico Integral",
     due: "Al entrar en Pisac",

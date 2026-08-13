@@ -36,8 +36,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-08-08.1";
-const dataUpdatedLabel = "8 agosto 2026 · itinerario aéreo actualizado";
+const dataVersion = "2026-08-13.1";
+const dataUpdatedLabel = "13 agosto 2026 · nuevo vuelo JetSMART actualizado";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;

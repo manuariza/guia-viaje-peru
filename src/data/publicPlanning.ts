@@ -48,7 +48,7 @@ export const criticalTasks: CriticalTask[] = [
     risk: "low",
     priority: "secundario",
     details: [
-      "Con el horario de referencia del vuelo JA7007, 19:15-20:44, y la recogida de equipaje, la llegada al alojamiento se prevé entre las 22:00 y las 22:30.",
+      "Con el horario de referencia del vuelo JA7007, 19:35-21:04, y la recogida de equipaje, la llegada al alojamiento se prevé entre las 22:20 y las 22:50.",
       "Enviar un aviso breve desde la plataforma de reserva para que la recepción tenga anotado el check-in tardío. No hace falta reservar traslado del hotel si se usará Uber.",
     ],
     links: [{ label: "Casa Andina Select Arequipa Plaza", url: "https://www.casa-andina.com/es/destinos/arequipa/hoteles/casa-andina-select-arequipa-plaza" }],

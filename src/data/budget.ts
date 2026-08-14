@@ -47,7 +47,7 @@ export const dailyBudgetLines: DailyBudgetLine[] = [
     amount: 138.55,
     currency: "EUR",
     status: "confirmado",
-    note: "Vuelo JA7007; horario de referencia actualizado a 19:15-20:44. Total documentado para los dos viajeros.",
+    note: "Vuelo JA7007; horario de referencia actualizado a 19:35-21:04. Total documentado para los dos viajeros.",
   },
   {
     id: "casa-andina-night-1",

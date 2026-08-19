@@ -203,6 +203,18 @@ export const destinationGuides: DestinationGuide[] = [
         important: true,
       },
       {
+        id: "misa-san-pedro-urubamba",
+        category: "actividad",
+        name: "Misa anticipada en San Pedro Apóstol de Urubamba",
+        timing: "Sábado, llegada 17:20-17:40; misa publicada a las 18:00",
+        description: "La parada se integra después del Museo Inkariy y permite mantener libre el domingo. El canon 1248 §1 reconoce la misa católica celebrada la tarde del día precedente para cumplir el precepto dominical.",
+        reservation: "No requiere reserva, pero el horario debe reconfirmarse durante la semana del viaje por posibles celebraciones especiales.",
+        booking: "Pedir al conductor que termine la ruta en la Plaza de Armas de Urubamba, espere durante la misa y regrese después al alojamiento. Si se cancela, confirmar San Pedro Apóstol de Calca a las 19:00.",
+        sourceUrl: "https://www.vatican.va/archive/cod-iuris-canonici/esp/documents/cic_libro4_cann1246-1248_sp.html",
+        mapUrl: maps("Parroquia San Pedro Apostol Urubamba Peru"),
+        important: true,
+      },
+      {
         id: "mercado-pisac",
         category: "compras",
         name: "Mercado Artesanal de Pisac",

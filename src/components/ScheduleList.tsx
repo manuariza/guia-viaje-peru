@@ -1,9 +1,9 @@
-const schedulePattern = /^((?:\d{2}:\d{2})(?:[-–](?:\d{2}:\d{2}))?|Noche)(?:[:\s]+)(.*)$/i;
+const schedulePattern = /^((?:\d{2}:\d{2})(?:[-–](?:\d{2}:\d{2}))?|Mañana|Mediodía|Tarde|Atardecer|Noche|Al llegar)(?:[:\s]+)(.*)$/i;
 
 function splitScheduleItem(item: string) {
   const match = item.match(schedulePattern);
   if (!match) {
-    return { time: "Orden", text: item };
+    return { time: "Paso", text: item };
   }
 
   return {

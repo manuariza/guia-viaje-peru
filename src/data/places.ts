@@ -413,15 +413,20 @@ export const places: Place[] = [
     worth: "Cierre natural del viaje antes del regreso a Lima y Madrid.",
     effort: "medio",
     transportModes: ["boat", "walk", "car"],
-    activities: ["Caminatas", "Río", "Lago Sandoval", "Canopy", "Guiado grupal"],
+    activities: ["Trochas de Concepción", "Río de Noche", "Lago Sandoval", "Canopy Walkway", "Selva Oculta"],
     foods: ["Pensión completa", "Frutas amazónicas"],
     shopping: ["Tienda del lodge si existe"],
     tips: [
       "Confirmar salida al aeropuerto al hacer check-in",
       "Llevar solo mochila/bolso pequeño de hasta 10 kg por persona en la embarcación",
       "Dejar maletas grandes en oficina/almacén seguro de Inkaterra en Puerto Maldonado",
+      "No hay Internet y la cobertura telefónica es limitada; descargar documentos y mapas",
     ],
-    links: [{ label: "Web Inkaterra", url: "https://www.inkaterra.com/es/promotions/madre-de-dios/hacienda-concepcion/" }],
+    links: [
+      { label: "Web Inkaterra", url: "https://www.inkaterra.com/es/promotions/madre-de-dios/hacienda-concepcion/" },
+      { label: "Itinerario oficial 3D/2N", url: "https://www.inkaterra.com/MEDIA/itineraries/ITHC/Itinerario_Programado_ITHC-3D2N.pdf" },
+      { label: "Guía de usuario Tambopata", url: "https://www.inkaterra.com/User_Guides/IT_UserGuide_Tambopata_ESP.pdf" },
+    ],
     photos: [photos.amazon, photos.puertoMaldonado],
   },
 ];

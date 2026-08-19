@@ -364,7 +364,7 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
     id: "variable-spend",
     date: "Todo el viaje",
     title: "Comidas no incluidas, seguro, propinas y compras",
-    note: "Gasto variable fuera del total. El seguro de viaje no está incluido en esta estimación. Inkaterra sí incluye la pensión completa del 19 al 21 de septiembre.",
+    note: "Gasto variable fuera del total. El seguro de viaje no está incluido en esta estimación. Inkaterra incluye las comidas de la estancia, excepto el posible almuerzo del último día, que es opcional y de pago.",
   },
 ];
 
@@ -392,7 +392,7 @@ export const budgetItems: BudgetItem[] = [
   {
     category: "Comidas e imprevistos",
     range: "Variable",
-    notes: "Inkaterra incluye pensión completa; mantener margen para restaurantes, propinas, taxis y cambios de horario.",
+    notes: "Inkaterra incluye las comidas de la estancia, salvo el almuerzo opcional y de pago del último día; mantener margen para restaurantes, propinas, taxis y cambios de horario.",
   },
 ];
 

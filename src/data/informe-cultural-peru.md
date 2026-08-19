@@ -942,17 +942,15 @@ Horario resultante: desayuno 08:00-09:00; encuentro 09:55; tour 10:00-14:00; com
 
 # 19 de septiembre — Cusco, Puerto Maldonado e Inkaterra
 
-## El itinerario probable del lodge
+## Programa oficial del lodge
 
-El itinerario estándar de tres días y dos noches de Hacienda Concepción propone normalmente:
+El programa oficial de tres días y dos noches de Hacienda Concepción incluye:
 
-- Llegada y comida.
-- Caminata por los senderos de Concepción.
-- Paseo vespertino o navegación al crepúsculo.
-- Cena.
-- Actividad nocturna según disponibilidad y condiciones.
+- Llegada, almuerzo a la carta, Trochas de Concepción, Río de Noche y cena.
+- Lago Sandoval por la mañana, Canopy Walkway por la tarde y Selva Oculta por la noche.
+- Desayuno, check-out a las 10:00 y regreso en bote y por tierra hacia el aeropuerto.
 
-El orden puede cambiar por nivel del río, lluvia, fauna o vuelos. El itinerario actualizado está en [Inkaterra Hacienda Concepción](https://www.inkaterra.com/inkaterra/inkaterra-hacienda-concepcion/excursions-ithc/itineraries/).
+El orden puede cambiar por nivel del río, lluvia, fauna o vuelos. Consultad el [itinerario oficial 3D/2N](https://www.inkaterra.com/MEDIA/itineraries/ITHC/Itinerario_Programado_ITHC-3D2N.pdf) y la [guía práctica de Tambopata](https://www.inkaterra.com/User_Guides/IT_UserGuide_Tambopata_ESP.pdf).
 
 ## Madre de Dios: territorio entre los Andes y la Amazonía
 
@@ -992,7 +990,8 @@ La atribución es imposible tal como se cuenta: el jesuita Juan de Velasco naci�
 - **Salida de Cusco:** reservar Uber para las 06:15 desde Casa Cristobal, disponible aproximadamente desde el 20 de agosto. Objetivo: llegar al aeropuerto sobre las 06:45. Pedir desayuno para llevar y dejar un taxi como respaldo.
 - **Inkaterra:** la estancia del 19 al 21 incluye traslados terrestres y fluviales aeropuerto-lodge-aeropuerto, pensión completa, agua purificada, guía grupal en español e inglés, excursiones, Lago Sandoval y Canopy Walkway.
 - **Equipaje fluvial:** máximo 10 kg por persona. Las dos maletas grandes se guardan en el almacén de Inkaterra en Puerto Maldonado.
-- **Pendiente de respuesta:** Inkaterra debe confirmar por escrito el encuentro, la custodia y recuperación de las maletas y la salida del 21 para el vuelo LATAM LA2265 de las 17:20.
+- **Conectividad:** Hacienda Concepción no tiene Internet y la cobertura telefónica es limitada; conviene guardar billetes, programa y contactos sin conexión.
+- **Coordinación:** comunicar los vuelos con antelación y acordar al llegar la hora de salida y recuperación del equipaje.
 
 ---
 
@@ -1000,7 +999,7 @@ La atribución es imposible tal como se cuenta: el jesuita Juan de Velasco naci�
 
 ## Qué priorizar realmente
 
-En el itinerario habitual de Inkaterra, el día completo suele combinar:
+El programa oficial de Inkaterra combina:
 
 - Lago Sandoval.
 - Navegación y observación de fauna.
@@ -1008,7 +1007,7 @@ En el itinerario habitual de Inkaterra, el día completo suele combinar:
 - Caminata interpretativa.
 - Selva nocturna.
 
-Todo ello forma parte de la tarifa confirmada junto con el guiado grupal y la pensión completa. No hay que comprar entradas, contratar transporte ni reservar actividades externas para este día. El horario y el orden concretos quedan a cargo de Inkaterra y pueden variar por clima, río y fauna.
+Todo ello forma parte de la tarifa de referencia junto con el guiado grupal y la pensión completa. El desayuno buffet está disponible desde las 05:30 y la cena a la carta desde las 19:00. No hay que comprar entradas, contratar transporte ni reservar actividades externas; el horario y el orden concretos quedan a cargo de Inkaterra y pueden variar por clima, río y fauna.
 
 Sandoval forma parte de la Reserva Nacional Tambopata y puede ofrecer avistamientos de hoatzines, caimanes, monos, aves y, con suerte, nutrias gigantes. La naturaleza no garantiza apariciones. La reserva protege 274.690 hectáreas y SERNANP registra en su conjunto alrededor de 600 especies de aves, 169 mamíferos, 103 reptiles y 205 peces. El Lago Sandoval es una cocha o antiguo meandro aislado del cauce principal, con unas 127 hectáreas de espejo de agua. La información oficial del área se encuentra en [SERNANP](https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/).
 
@@ -1109,14 +1108,13 @@ Las tradiciones son culturalmente valiosas, pero no deben utilizarse para justif
 
 ## Ajuste logístico importante
 
-El itinerario estándar de Inkaterra para tres días y dos noches suele prever el traslado de salida después del desayuno, coordinado con los vuelos. Vuestro plan de permanecer hasta después de comer y salir a las 14:30 puede no coincidir con el transporte fluvial colectivo.
+El programa oficial prevé desayuno, check-out a las 10:00 y traslado de regreso coordinado con el vuelo. No promete una excursión adicional esa mañana. El almuerzo puede solicitarse, pero tiene coste adicional.
 
 Confirmad por escrito con el lodge:
 
 - Hora exacta de salida de la embarcación.
 - Hora de llegada al aeropuerto.
-- Si la actividad del lunes por la mañana está incluida.
-- Si la comida del día de salida está incluida.
+- Cuándo se recuperan las maletas grandes del almacén.
 - Margen necesario para el vuelo de las 17:20.
 
 No organizaría una actividad larga el último día sin esa confirmación.
@@ -1131,7 +1129,7 @@ No organizaría una actividad larga el último día sin esa confirmación.
 
 4. **Boleto Turístico de Cusco:** si utilizáis el integral desde el 12 de septiembre, sus diez días de vigencia alcanzan el 18 y puede cubrir Pisac, Ollantaytambo, Chinchero, Moray, Sacsayhuamán, Q’enqo, Puka Pukara y Tambomachay. Consultad el [tarifario de COSITUC](https://cosituc.gob.pe/tarifario-2/).
 
-5. **Inkaterra:** no deis por segura la actividad larga y la comida del día 21 hasta conocer el horario definitivo de la lancha.
+5. **Inkaterra:** el día 21 no incluye una actividad larga confirmada y el almuerzo tiene coste adicional; acordad al llegar la hora definitiva de la lancha y la recuperación de las maletas.
 
 # Fuentes para ampliar durante el viaje
 

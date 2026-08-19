@@ -155,7 +155,7 @@ export const restaurants: FoodRecommendation[] = [
     id: "inkaterra-dining",
     name: "Comidas del lodge Inkaterra",
     location: "Amazonía / Madre de Dios",
-    note: "Pensión completa incluida en la tarifa de referencia de Inkaterra.",
+    note: "Comidas incluidas durante la estancia. El programa oficial aclara que el almuerzo del último día solo se ofrece bajo petición y con coste adicional.",
     mapUrl: maps("Inkaterra Hacienda Concepcion restaurant"),
     website: "https://www.inkaterra.com/es/promotions/madre-de-dios/hacienda-concepcion/",
     photoIds: ["amazon", "puertoMaldonado"],

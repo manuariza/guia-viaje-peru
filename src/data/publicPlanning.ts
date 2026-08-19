@@ -107,12 +107,25 @@ export const criticalTasks: CriticalTask[] = [
     priority: "prioritario",
     details: [
       "Solicitar un paquete para aeropuerto de Cusco–Urubamba, excursiones a Pisac, Chinchero–Moray–Maras y Ollantaytambo, traslado a la estación y regreso Ollantaytambo–Cusco. Para el tren del día 15, fijar la recogida en Tierra Viva a las 08:45.",
-      "Referencia revisada: mínimo USD332/S1.115 por seis servicios con la ruta larga del día 13. Pedir precio ampliado para el día 12 con misa y el día 14 con Pinkuylluna; confirmar cancelación y retrasos del tren. Un coche de alquiler no compensa.",
+      "Referencia revisada: mínimo USD332/S1.115 por seis servicios con la ruta larga del día 13. Día 12: pedir conductor 09:00-17:20 y volver de la misa en taxi. Día 14: pedir 8 horas, 09:00-17:00, si se mantiene Pinkuylluna. Confirmar cancelación y retrasos del tren.",
     ],
     links: [
       { label: "Taxidatum", url: "https://www.taxidatum.com/es/" },
       { label: "Tierra Viva Valle Sagrado", url: "https://tierravivahoteles.com/tierra-viva-valle-sagrado-urubamba/" },
     ],
+  },
+  {
+    id: "el-huacatay-dinner",
+    title: "Reservar El Huacatay para la cena",
+    due: "11 septiembre · 19:00",
+    status: "pendiente",
+    risk: "medium",
+    priority: "secundario",
+    details: [
+      "Reservar una mesa para dos a las 19:00 y llegar entre las 18:40 y las 18:55.",
+      "El plan incluye taxi desde Tierra Viva y regreso al terminar. Si el vuelo o la carretera se retrasan, avisar y cenar en SUNO dentro del hotel.",
+    ],
+    links: [{ label: "El Huacatay · web oficial", url: "https://www.elhuacatay.com/" }],
   },
   {
     id: "maras-entry",
@@ -135,7 +148,7 @@ export const criticalTasks: CriticalTask[] = [
     risk: "low",
     priority: "secundario",
     details: [
-      "Plan principal: San Pedro Apóstol de Urubamba, sábado a las 18:00, después de Pisac e Inkariy. Pedir al conductor que espere durante la celebración y regrese después al alojamiento.",
+      "Plan principal: San Pedro Apóstol de Urubamba, sábado a las 18:00, después de Pisac e Inkariy. El conductor termina a las 17:20 en la plaza; después de la celebración se regresa en taxi de 19:00 a 19:25.",
       "Reconfirmar el horario por posibles celebraciones especiales. Si cambia, comprobar San Pedro Apóstol de Calca a las 19:00; si hay retraso, acortar Inkariy antes que arriesgar la llegada.",
     ],
     links: [

@@ -251,6 +251,10 @@ Existe otra tradición fundacional: Manco Cápac y Mama Ocllo salen del lago Tit
 
 Ambos relatos —el de los Ayar y el de la pareja solar— no necesitan encajar como una crónica histórica. Son maneras distintas de explicar la legitimidad de Cusco y el origen sagrado de sus gobernantes.
 
+## Plan operativo actualizado
+
+Después del vuelo LATAM Arequipa-Cusco de 14:00 a 14:55, el traslado privado está previsto de 15:40 a 17:30 hasta Tierra Viva Valle Sagrado. La cena elegida es **El Huacatay**, en Urubamba, de 19:00 a 20:00; conviene reservar mesa. El plan incluye taxi desde el hotel a las 18:25 y regreso al terminar. Si el vuelo o la carretera se retrasan, la alternativa es cenar en **SUNO Restaurant**, dentro de Tierra Viva.
+
 ---
 
 # 12 de septiembre — Pisac y Museo Inkariy
@@ -303,7 +307,7 @@ Las escenografías son interpretaciones modernas. Ayudan a imaginar ceremonias y
 
 ## Misa anticipada en San Pedro Apóstol de Urubamba
 
-Después de Inkariy, la ruta continúa hasta la **Parroquia San Pedro Apóstol de Urubamba**, situada en la Plaza de Armas. El plan recomendado es llegar entre las 17:20 y las 17:40 para asistir a la misa ordinaria publicada de las **18:00**.
+Después de Inkariy, la ruta continúa hasta la **Parroquia San Pedro Apóstol de Urubamba**, situada en la Plaza de Armas. El plan recomendado es llegar a las 17:20 para asistir a la misa ordinaria publicada de las **18:00**. El conductor termina el servicio allí; después de la misa, el regreso será en taxi de 19:00 a 19:25 hasta Tierra Viva, seguido de cena en **SUNO Restaurant** de 19:30 a 20:45.
 
 El templo fue construido en época colonial y forma parte del patrimonio histórico de Urubamba. Su ubicación en la plaza principal permite observar cómo las parroquias y plazas coloniales reorganizaron los centros urbanos andinos.
 
@@ -430,6 +434,10 @@ También sostiene que determinados santuarios —Titicaca, Pucará, Cusco y Caja
 No existe evidencia arqueológica aceptada que demuestre esas identificaciones o una línea sagrada de precisión satelital. La imagen de un Viracocha “blanco y barbado” puede estar además condicionada por las categorías utilizadas por cronistas europeos.
 
 **Cómo disfrutar el relato:** observad la supuesta cara de Pinkuylluna como una tradición del paisaje, pero no como prueba de que un extranjero o un extraterrestre construyera Ollantaytambo.
+
+## Plan operativo actualizado
+
+La jornada queda fijada de 09:00 a 17:00. Después del complejo arqueológico y el pueblo antiguo, se baja caminando a la estación para comer en **El Albergue Restaurant** de 12:30 a 13:45. Pinkuylluna se mantiene de 14:00 a 15:30 solo si hay energía y buen tiempo; después queda una hora para café, mercado o paseo antes del regreso. El coche de referencia cubre seis horas, por lo que hay que pedir precio por dos horas adicionales si se conserva el plan completo.
 
 ---
 

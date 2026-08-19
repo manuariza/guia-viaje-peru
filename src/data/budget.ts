@@ -76,8 +76,8 @@ export const dailyBudgetLines: DailyBudgetLine[] = [
     title: "Monasterio de Santa Catalina · 2 adultos extranjeros",
     amount: 100,
     currency: "PEN",
-    status: "pendiente",
-    note: "Visita libre sin guía con tarifa de adulto extranjero; las promociones para DNI peruano no se aplican a esta referencia.",
+    status: "confirmado",
+    note: "Coste previsto para pagar en la boletería al llegar; no requiere compra anticipada. Visita libre sin guía y sin promoción para DNI peruano.",
   },
   {
     id: "santuarios-andinos-tickets",

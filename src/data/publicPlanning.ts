@@ -29,16 +29,16 @@ export const criticalTasks: CriticalTask[] = [
   },
   {
     id: "santa-catalina",
-    title: "Comprar las entradas de Santa Catalina",
-    due: "Antes del 10 de septiembre",
-    status: "pendiente",
+    title: "Santa Catalina · compra en taquilla",
+    due: "10 de septiembre · al llegar",
+    status: "confirmado",
     risk: "low",
     priority: "secundario",
     details: [
-      "Reservar dos entradas generales para la visita libre. La tarifa de referencia es S/50 por adulto extranjero; revisar el precio vigente antes de pagar.",
+      "Comprar dos entradas generales en la boletería al llegar. La tarifa de referencia es S/50 por adulto extranjero; no hace falta compra anticipada.",
       "No es necesario contratar guía privado para seguir este itinerario.",
     ],
-    links: [{ label: "Monasterio de Santa Catalina", url: "https://santacatalina.org.pe/" }],
+    links: [{ label: "Horarios y precios oficiales", url: "https://santacatalina.org.pe/horarios-y-precios" }],
   },
   {
     id: "arequipa-late-arrival",

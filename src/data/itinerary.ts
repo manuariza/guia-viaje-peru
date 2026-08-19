@@ -96,7 +96,7 @@ export const itinerary: DayPlan[] = [
     activities: ["Santa Catalina", "Plaza de Armas", "Iglesia de la Compañía", "Museo Santuarios Andinos", "Yanahuara"],
     foods: ["Rocoto relleno", "Chupe de camarones", "Ocopa", "Queso helado"],
     orderTips: [
-      "Comprar dos entradas oficiales de Santa Catalina a S/50 por adulto; no aplica promoción sin DNI peruano",
+      "Comprar en la boletería al llegar dos entradas de Santa Catalina a S/50 por adulto; no hace falta compra anticipada y no aplica la promoción sin DNI peruano",
       "Reservar Chicha para dos personas a las 13:00",
       "Comprar Museo Santuarios Andinos en taquilla: S/25 por adulto extranjero",
       "No contratar city tour; caminar por el centro y usar Uber para Yanahuara",

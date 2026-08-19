@@ -90,7 +90,7 @@ export const criticalTasks: CriticalTask[] = [
     risk: "high",
     priority: "prioritario",
     details: [
-      "Solicitar un paquete para aeropuerto de Cusco–Urubamba, excursiones a Pisac, Chinchero–Moray–Maras y Ollantaytambo, traslado a la estación y regreso Ollantaytambo–Cusco.",
+      "Solicitar un paquete para aeropuerto de Cusco–Urubamba, excursiones a Pisac, Chinchero–Moray–Maras y Ollantaytambo, traslado a la estación y regreso Ollantaytambo–Cusco. Para el tren del día 15, fijar la recogida en Tierra Viva a las 08:45.",
       "Comparar precio total, esperas, capacidad para dos maletas grandes y dos mochilas, cancelación y seguimiento de retrasos del tren. Un coche de alquiler no compensa por conducción, aparcamiento, altura y regreso desde Machu Picchu.",
     ],
     links: [
@@ -136,7 +136,7 @@ export const criticalTasks: CriticalTask[] = [
     priority: "prioritario",
     details: [
       "Comprar por Internet antes de comenzar el viaje dos billetes de adulto extranjero, ida y vuelta, para el mismo día de la entrada. La referencia publicada es US$24 por persona.",
-      "Guardar los billetes y documentos sin conexión. Conviene estar en la cola con margen suficiente para la franja de entrada elegida.",
+      "Guardar los billetes y documentos sin conexión. Para este itinerario: salir del alojamiento 06:20, cola de subida 06:30, cola de bajada máximo 10:45, recoger la mochila 13:00 y estar en la estación 13:30.",
     ],
     links: [{ label: "Camino a la Maravilla · compra oficial", url: "https://comprar.caminoalamaravilla.com/" }],
   },
@@ -190,7 +190,7 @@ export const criticalTasks: CriticalTask[] = [
     risk: "high",
     priority: "prioritario",
     details: [
-      "Confirmar los vuelos de llegada y salida, punto de encuentro, horario de regreso y recuperación de maletas. La tarifa del lodge de referencia incluye traslados terrestres y fluviales.",
+      "Confirmar los vuelos de llegada y salida, punto de encuentro, horario de regreso y recuperación de maletas. Pedir que el traslado del último día llegue al aeropuerto de Puerto Maldonado a las 15:00. La tarifa del lodge de referencia incluye traslados terrestres y fluviales.",
       "Para la embarcación, preparar una mochila o bolso pequeño de hasta 10 kg por persona y dejar las maletas grandes en el almacén de la operadora en Puerto Maldonado.",
     ],
     links: [{ label: "Inkaterra Hacienda Concepción", url: "https://www.inkaterra.com/es/inkaterra/inkaterra-hacienda-concepcion/" }],

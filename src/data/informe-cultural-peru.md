@@ -997,7 +997,7 @@ La atribución es imposible tal como se cuenta: el jesuita Juan de Velasco naci�
 ## Nota práctica para este día
 
 - **Vuelo SKY:** 08:45-09:45. La tarifa Max Flex incluye por persona objeto personal de 10 kg, equipaje de cabina de 10 kg y una maleta facturada de 23 kg. No hace falta comprar equipaje adicional.
-- **Salida de Cusco:** reservar Uber para las 06:15 desde Casa Cristobal, disponible aproximadamente desde el 20 de agosto. Objetivo: llegar al aeropuerto sobre las 06:45. Pedir desayuno para llevar y dejar un taxi como respaldo.
+- **Salida de Cusco:** pedir Uber a las 05:45 y salir de Casa Cristobal como máximo a las 05:55. Objetivo: llegar al aeropuerto aproximadamente entre las 06:20 y las 06:35. Pedir desayuno para llevar y dejar un taxi como respaldo.
 - **Inkaterra:** la estancia del 19 al 21 incluye traslados terrestres y fluviales aeropuerto-lodge-aeropuerto, pensión completa, agua purificada, guía grupal en español e inglés, excursiones, Lago Sandoval y Canopy Walkway.
 - **Equipaje fluvial:** máximo 10 kg por persona. Las dos maletas grandes se guardan en el almacén de Inkaterra en Puerto Maldonado.
 - **Conectividad:** Hacienda Concepción no tiene Internet y la cobertura telefónica es limitada; conviene guardar billetes, programa y contactos sin conexión.

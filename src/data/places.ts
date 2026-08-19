@@ -382,7 +382,7 @@ export const places: Place[] = [
       "17 sep: plan cerrado a pie; llevar S/200 en efectivo para Qorikancha, Circuito Religioso y Museo Inka",
       "Museo Inka elegido sobre el MAP; entrar a las 14:15 porque cierra a las 16:00",
       "18 sep: opción recomendada de Cusco Guide a las 10:00; confirmar precio, idioma, encuentro y cancelación antes de reservar",
-      "19 sep: reservar Uber 06:15 desde el 20 ago, pedir desayuno para llevar y preparar mochilas Inkaterra de máximo 10 kg",
+      "19 sep: pedir Uber Reserve a las 05:45 y salir como máximo a las 05:55; pedir desayuno para llevar y preparar mochilas Inkaterra de máximo 10 kg",
     ],
     links: [
       { label: "Google Maps", url: maps("Cusco Peru") },

@@ -329,7 +329,7 @@ export const places: Place[] = [
     shopping: ["Recuerdo pequeño"],
     tips: [
       "No hace falta guía según la decisión actual",
-      "Comprar online Camino a la Maravilla ida/vuelta para dos adultos extranjeros: 48 USD total; guardar comprobantes sin conexión y copia impresa",
+      "Comprar online Camino a la Maravilla ida/vuelta antes de comenzar el viaje para dos adultos extranjeros: 48 USD total; guardar comprobantes sin conexión y copia impresa",
     ],
     links: [
       { label: "Entrada oficial", url: "https://tuboleto.cultura.pe/llaqta_machupicchu" },

@@ -235,7 +235,7 @@ export const itinerary: DayPlan[] = [
       "12:45 encuentro con el representante de Taypikala en la salida de la estación y paseo acompañado de unos 9 minutos hasta el hotel",
       "13:15 check-in en Taypikala",
       "15:00 opcional: intentar Circuito 2 presencial en oficina de turismo de Aguas Calientes",
-      "17:00 comprobar los billetes online de Camino a la Maravilla y la documentación para Machu Picchu",
+      "17:00 comprobar que los billetes de Camino a la Maravilla comprados antes de comenzar el viaje y la documentación de Machu Picchu están disponibles sin conexión",
       "21:00 dormir pronto",
     ],
     activities: ["Inca Rail", "Aguas Calientes", "Circuito 2 opcional presencial"],
@@ -280,7 +280,7 @@ export const itinerary: DayPlan[] = [
     foods: ["Desayuno temprano", "Snack ligero", "Comida en Aguas Calientes", "Cena ligera en Cusco"],
     orderTips: [
       "No hace falta guía",
-      "Comprar online Camino a la Maravilla ida/vuelta: 16/09/2026, dos adultos extranjeros, 48 USD total; guardar comprobantes sin conexión y copia impresa",
+      "Los billetes online de Camino a la Maravilla deben haberse comprado antes de comenzar el viaje: 16/09/2026, dos adultos extranjeros, ida y vuelta, 48 USD total",
       "Ponerse en la cola del bus a las 06:45; la compra anticipada no elimina la cola de embarque",
       "Cerrar conductor Ollantaytambo -> Cusco y confirmar punto exacto de encuentro en estación",
       "No usar como plan operativo el bus bimodal de Inca Rail a Cusco; el regreso necesita coche por las maletas grandes",

@@ -600,7 +600,7 @@ UNESCO ofrece el contexto general del santuario en su [ficha de Machu Picchu](ht
 
 ## Nota práctica para este día
 
-El itinerario de referencia utiliza la entrada **Circuito 1 Ruta 1-D Puente Inka a las 08:00**, sin guía. El bus de ida y vuelta de Camino a la Maravilla debe comprarse online en [la web oficial](https://comprar.caminoalamaravilla.com/); el coste previsto es de USD 48 para dos adultos extranjeros.
+El itinerario de referencia utiliza la entrada **Circuito 1 Ruta 1-D Puente Inka a las 08:00**, sin guía. El bus de ida y vuelta de Camino a la Maravilla debe comprarse online en [la web oficial](https://comprar.caminoalamaravilla.com/) antes de comenzar el viaje; el coste previsto es de USD 48 para dos adultos extranjeros.
 
 ---
 

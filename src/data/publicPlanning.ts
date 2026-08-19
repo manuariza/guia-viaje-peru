@@ -98,12 +98,12 @@ export const criticalTasks: CriticalTask[] = [
   {
     id: "machu-bus",
     title: "Comprar el bus de Machu Picchu ida y vuelta",
-    due: "Después de confirmar la entrada",
+    due: "Antes de comenzar el viaje",
     status: "pendiente",
     risk: "high",
     priority: "prioritario",
     details: [
-      "Comprar por Internet dos billetes de adulto extranjero, ida y vuelta, para el mismo día de la entrada. La referencia publicada es US$24 por persona.",
+      "Comprar por Internet antes de comenzar el viaje dos billetes de adulto extranjero, ida y vuelta, para el mismo día de la entrada. La referencia publicada es US$24 por persona.",
       "Guardar los billetes y documentos sin conexión. Conviene estar en la cola con margen suficiente para la franja de entrada elegida.",
     ],
     links: [{ label: "Camino a la Maravilla · compra oficial", url: "https://comprar.caminoalamaravilla.com/" }],

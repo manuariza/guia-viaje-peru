@@ -36,8 +36,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-08-14.1";
-const dataUpdatedLabel = "19 agosto 2026 · itinerarios y comidas de Arequipa";
+const dataVersion = "2026-08-19.2";
+const dataUpdatedLabel = "19 agosto 2026 · auditoría integral y tarifas de transporte revisadas";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;

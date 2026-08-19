@@ -107,7 +107,7 @@ export const criticalTasks: CriticalTask[] = [
     priority: "prioritario",
     details: [
       "Solicitar un paquete para aeropuerto de Cusco–Urubamba, excursiones a Pisac, Chinchero–Moray–Maras y Ollantaytambo, traslado a la estación y regreso Ollantaytambo–Cusco. Para el tren del día 15, fijar la recogida en Tierra Viva a las 08:45.",
-      "Comparar precio total, esperas, capacidad para dos maletas grandes y dos mochilas, cancelación y seguimiento de retrasos del tren. Un coche de alquiler no compensa por conducción, aparcamiento, altura y regreso desde Machu Picchu.",
+      "Referencia revisada: mínimo USD332/S1.115 por seis servicios con la ruta larga del día 13. Pedir precio ampliado para el día 12 con misa y el día 14 con Pinkuylluna; confirmar cancelación y retrasos del tren. Un coche de alquiler no compensa.",
     ],
     links: [
       { label: "Taxidatum", url: "https://www.taxidatum.com/es/" },

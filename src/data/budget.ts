@@ -344,7 +344,7 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
     title: "Conductor privado Ollantaytambo - Cusco",
     amount: 35,
     currency: "USD",
-    note: "Mejor referencia obtenida: Taxidatum, 35 USD o S/120; otras ofertas alcanzan 65 USD. Confirmar equipaje, punto de encuentro y espera por retraso del tren antes de reservar.",
+    note: "Mejor referencia obtenida: Taxidatum, 35 USD o S/120 por vehículo en sedán Toyota/Kia o similar; otras ofertas alcanzan 65 USD. Reconfirmar punto de encuentro y espera por retraso del tren.",
   },
   {
     id: "consettur",
@@ -358,7 +358,7 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
     id: "local-transfers",
     date: "8-19 sep",
     title: "Taxis y traslados locales",
-    note: "Referencia Taxidatum para seis servicios del 11 al 16: 307 USD o S/1.035. Confirmar horarios, esperas, equipaje, pago y cancelación antes de reservar.",
+    note: "Referencia Taxidatum revisada: mínimo 332 USD o S/1.115 para seis servicios al aplicar la ruta larga del día 13. Los días 12 y 14 requieren precio ampliado si superan 6 horas; el traslado opcional del 19 parte de 8 USD o S/25.",
   },
   {
     id: "variable-spend",

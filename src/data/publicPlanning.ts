@@ -25,7 +25,10 @@ export const criticalTasks: CriticalTask[] = [
       "El plan de referencia cuesta S/89 e incluye Internet ilimitado durante 15 días. Una sola eSIM en el móvil principal puede compartir conexión con el segundo teléfono.",
       "Comprobar previamente que el modelo aparece como compatible y que permite compartir Internet. Instalarla con Wi‑Fi estable y guardar el QR o las instrucciones sin conexión.",
     ],
-    links: [{ label: "OLO · eSIM para turistas", url: "https://olo.com.pe/" }],
+    links: [
+      { label: "OLO · información oficial", url: "https://www.claro.com.pe/personas/movil/olo/" },
+      { label: "OLO · comprar eSIM", url: "https://www.esim.olo.com.pe/" },
+    ],
   },
   {
     id: "santa-catalina",
@@ -52,6 +55,19 @@ export const criticalTasks: CriticalTask[] = [
       "Enviar un aviso breve desde la plataforma de reserva para que la recepción tenga anotado el check-in tardío. No hace falta reservar traslado del hotel si se usará Uber.",
     ],
     links: [{ label: "Casa Andina Select Arequipa Plaza", url: "https://www.casa-andina.com/es/destinos/arequipa/hoteles/casa-andina-select-arequipa-plaza" }],
+  },
+  {
+    id: "chicha-arequipa",
+    title: "Reservar Chicha Arequipa",
+    due: "Antes del 25 de agosto",
+    status: "pendiente",
+    risk: "low",
+    priority: "secundario",
+    details: [
+      "Reservar mesa para dos el 10 de septiembre a las 13:00, después de Santa Catalina y la Plaza de Armas.",
+      "Presupuesto orientativo: S/150-250 para dos. Confirmar directamente con el restaurante sin enlazar información de una reserva personal.",
+    ],
+    links: [{ label: "Chicha Arequipa", url: "https://chicha.com.pe/arequipa/" }],
   },
   {
     id: "boleto-turistico",
@@ -94,6 +110,22 @@ export const criticalTasks: CriticalTask[] = [
       "La compra online puede dejarse para más adelante porque no suele funcionar con un cupo horario comparable al de Machu Picchu.",
     ],
     links: [{ label: "Marasal · entrada internacional", url: "https://saldemaras.pe/producto/entrada-internacional/" }],
+  },
+  {
+    id: "urubamba-mass",
+    title: "Reconfirmar la misa anticipada de Urubamba",
+    due: "Durante la semana del viaje",
+    status: "pendiente",
+    risk: "low",
+    priority: "secundario",
+    details: [
+      "Plan principal: San Pedro Apóstol de Urubamba, sábado a las 18:00, después de Pisac e Inkariy. Pedir al conductor que espere durante la celebración y regrese después al alojamiento.",
+      "Reconfirmar el horario por posibles celebraciones especiales. Si cambia, comprobar San Pedro Apóstol de Calca a las 19:00; si hay retraso, acortar Inkariy antes que arriesgar la llegada.",
+    ],
+    links: [
+      { label: "Parroquia de Urubamba", url: "https://www.facebook.com/Sr.DeTorrechayoc/" },
+      { label: "Ubicación", url: "https://www.google.com/maps/search/?api=1&query=Parroquia+San+Pedro+Apostol+Urubamba+Peru" },
+    ],
   },
   {
     id: "machu-bus",

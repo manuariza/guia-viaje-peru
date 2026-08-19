@@ -336,15 +336,15 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
     title: "Una eSIM OLO Turista de 15 días",
     amount: 89,
     currency: "PEN",
-    note: "Plan propuesto: una eSIM ilimitada en el móvil principal y conexión compartida con el segundo. Comprobar compatibilidad y punto de acceso; comprar y activar el plan el día anterior a la salida con Wi‑Fi estable.",
+    note: "Plan recomendado: una sola eSIM ilimitada en el móvil principal y conexión compartida con el segundo. Comprobar compatibilidad y punto de acceso; comprar y activar el plan el día anterior a la salida con Wi‑Fi estable.",
   },
   {
     id: "ollanta-cusco-driver",
     date: "16 sep",
     title: "Conductor privado Ollantaytambo - Cusco",
-    amount: 65,
+    amount: 35,
     currency: "USD",
-    note: "Importe orientativo de dos cotizaciones; todavía no está reservado.",
+    note: "Mejor referencia obtenida: Taxidatum, 35 USD o S/120; otras ofertas alcanzan 65 USD. Confirmar equipaje, punto de encuentro y espera por retraso del tren antes de reservar.",
   },
   {
     id: "consettur",
@@ -358,7 +358,7 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
     id: "local-transfers",
     date: "8-19 sep",
     title: "Taxis y traslados locales",
-    note: "Aeropuertos, Valle Sagrado y excursiones locales siguen sin precio cerrado.",
+    note: "Referencia Taxidatum para seis servicios del 11 al 16: 307 USD o S/1.035. Confirmar horarios, esperas, equipaje, pago y cancelación antes de reservar.",
   },
   {
     id: "variable-spend",

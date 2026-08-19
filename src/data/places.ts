@@ -335,7 +335,7 @@ export const places: Place[] = [
     shopping: ["Mercado artesanal turístico"],
     tips: [
       "Preparar mochila y documentos antes de dormir",
-      "Custodia de Inca Rail de referencia para las maletas grandes en Ollantaytambo: gratuita, 06:00-23:00, sin reserva y con ticket; reconfirmar antes del viaje",
+      "Inca Rail ofrece custodia para las maletas grandes en Ollantaytambo: gratuita, 06:00-23:00, sin reserva y con ticket; comprobar que las condiciones siguen vigentes antes del viaje",
     ],
     links: [{ label: "Google Maps", url: maps("Aguas Calientes Machu Picchu") }],
     photos: [photos.aguasCalientes, photos.machuPicchu],

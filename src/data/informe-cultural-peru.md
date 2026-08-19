@@ -303,16 +303,6 @@ Las escenografías son interpretaciones modernas. Ayudan a imaginar ceremonias y
 
 ## Misa anticipada en San Pedro Apóstol de Urubamba
 
-Después de Inkariy, la ruta continúa hasta la **Parroquia San Pedro Apóstol de Urubamba**, situada en la Plaza de Armas. El plan es llegar entre las 17:20 y las 17:40 para asistir a la misa ordinaria publicada de las **18:00** y regresar después al alojamiento.
-
-El templo fue construido en época colonial y forma parte del patrimonio histórico de Urubamba. Su ubicación en la plaza principal permite observar cómo las parroquias y plazas coloniales reorganizaron los centros urbanos andinos.
-
-Según el [canon 1248 §1 del Código de Derecho Canónico](https://www.vatican.va/archive/cod-iuris-canonici/esp/documents/cic_libro4_cann1246-1248_sp.html), la misa católica celebrada la tarde del día anterior cumple el precepto dominical. Así, esta celebración del sábado permite conservar entero el domingo para Chinchero, Moray y Maras.
-
-El horario parroquial puede variar por fiestas, bodas u otras celebraciones. Debe confirmarse durante la semana del viaje en la [página de la parroquia](https://www.facebook.com/Sr.DeTorrechayoc/). Si se suspendiera, el respaldo es San Pedro Apóstol de Calca a las 19:00, también previa confirmación. En caso de retraso, se acorta Inkariy antes que arriesgar la llegada a misa.
-
-## Misa anticipada en San Pedro Apóstol de Urubamba
-
 Después de Inkariy, la ruta continúa hasta la **Parroquia San Pedro Apóstol de Urubamba**, situada en la Plaza de Armas. El plan recomendado es llegar entre las 17:20 y las 17:40 para asistir a la misa ordinaria publicada de las **18:00**.
 
 El templo fue construido en época colonial y forma parte del patrimonio histórico de Urubamba. Su ubicación en la plaza principal permite observar cómo las parroquias y plazas coloniales reorganizaron los centros urbanos andinos.

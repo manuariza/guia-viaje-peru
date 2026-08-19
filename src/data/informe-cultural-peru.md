@@ -319,6 +319,12 @@ El horario parroquial puede variar por fiestas, bodas u otras celebraciones. Deb
 
 # 13 de septiembre — Chinchero, Moray y Maras
 
+## Plan operativo actualizado
+
+El día queda organizado de **09:00 a 17:00**: Chinchero de 10:00 a 11:15, Moray de 12:00 a 13:00, comida en **UNU Landscape & Gastronomy**, en Tiobamba, de 13:20 a 14:40, y Salineras de Maras de 15:00 a 16:15. El regreso a Tierra Viva está previsto a las 17:00, seguido de dos horas de descanso. A las 19:30, **SUNO Restaurant** queda únicamente como cena ligera opcional si hay hambre.
+
+Conviene reservar UNU para dos personas. La referencia de transporte largo, USD90/S300, encaja con las ocho horas, pero debe confirmarse que incluye las esperas y la parada en UNU. Si se acumula retraso, es preferible abreviar el centro textil de Chinchero y conservar la salida de UNU a las 14:40.
+
 ## Chinchero
 
 El asentamiento tuvo ocupación killke anterior a los incas y posteriormente se asoció con una propiedad real de Túpac Yupanqui. La iglesia y el pueblo colonial se levantaron sobre un paisaje organizado mediante terrazas y estructuras incas. La [Dirección de Cultura de Cusco](https://www.culturacusco.gob.pe/) destaca precisamente esta sucesión entre ocupación killke, fase inca y transformación colonial.

@@ -358,7 +358,7 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
     id: "local-transfers",
     date: "8-19 sep",
     title: "Taxis y traslados locales",
-    note: "Referencia Taxidatum revisada: mínimo 332 USD o S/1.115 para seis servicios al aplicar la ruta larga del día 13. Día 12 requiere precio de 09:00 a 17:20 y taxi separado tras la misa; día 14 requiere 8 horas, de 09:00 a 17:00. El traslado opcional del 19 parte de 8 USD o S/25.",
+    note: "Referencia revisada: mínimo 332 USD o S/1.115 para seis servicios. El día 13 usa la ruta larga de USD90/S300, de 09:00 a 17:00, con Chinchero, Moray, comida en UNU y Maras; hay que confirmar todas las esperas. Los días 12 y 14 requieren horarios ampliados.",
   },
   {
     id: "variable-spend",

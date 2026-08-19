@@ -107,12 +107,25 @@ export const criticalTasks: CriticalTask[] = [
     priority: "prioritario",
     details: [
       "Solicitar un paquete para aeropuerto de Cusco–Urubamba, excursiones a Pisac, Chinchero–Moray–Maras y Ollantaytambo, traslado a la estación y regreso Ollantaytambo–Cusco. Para el tren del día 15, fijar la recogida en Tierra Viva a las 08:45.",
-      "Referencia revisada: mínimo USD332/S1.115 por seis servicios con la ruta larga del día 13. Día 12: pedir conductor 09:00-17:20 y volver de la misa en taxi. Día 14: pedir 8 horas, 09:00-17:00, si se mantiene Pinkuylluna. Confirmar cancelación y retrasos del tren.",
+      "Referencia revisada: mínimo USD332/S1.115 por seis servicios. Día 12: conductor 09:00-17:20 y taxi tras la misa. Día 13: ruta 09:00-17:00 con Chinchero, Moray, UNU y Maras; confirmar todas las esperas por USD90/S300. Día 14: pedir 8 horas si se mantiene Pinkuylluna. Confirmar cancelación y retrasos del tren.",
     ],
     links: [
       { label: "Taxidatum", url: "https://www.taxidatum.com/es/" },
       { label: "Tierra Viva Valle Sagrado", url: "https://tierravivahoteles.com/tierra-viva-valle-sagrado-urubamba/" },
     ],
+  },
+  {
+    id: "unu-lunch-day13",
+    title: "Reservar UNU para la comida",
+    due: "13 septiembre · 13:20",
+    status: "pendiente",
+    risk: "medium",
+    priority: "secundario",
+    details: [
+      "Conviene reservar una mesa para dos a las 13:20.",
+      "La parada se integra entre Moray y Maras: comida hasta las 14:40 y salida inmediata hacia las salineras.",
+    ],
+    links: [{ label: "UNU · ubicación", url: "https://www.google.com/maps/search/?api=1&query=UNU+Landscape+%26+Gastronomy+Tiobamba+Peru" }],
   },
   {
     id: "el-huacatay-dinner",

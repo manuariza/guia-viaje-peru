@@ -626,6 +626,8 @@ UNESCO ofrece el contexto general del santuario en su [ficha de Machu Picchu](ht
 
 El itinerario de referencia utiliza la entrada **Circuito 1 Ruta 1-D Puente Inka a las 08:00**, sin guía. El bus de ida y vuelta de Camino a la Maravilla debe comprarse online en [la web oficial](https://comprar.caminoalamaravilla.com/) antes de comenzar el viaje; el coste previsto es de USD 48 para dos adultos extranjeros.
 
+Tras el tren y el traslado privado a Cusco, el plan termina con **cena reservada para dos a las 19:30 en Chicha por Gastón Acurio**, Plaza Regocijo 261. Conviene llegar antes de las 19:25 porque la tolerancia es de cinco minutos.
+
 ---
 
 # 17 de septiembre — Cusco histórico
@@ -956,11 +958,11 @@ La hoja de coca puede masticarse acompañada de ceniza o una sustancia alcalina 
 - **Ruta:** Sacsayhuamán, Q’enqo, Puka Pukara y Tambomachay, sin repetir Qorikancha ni Catedral.
 - **Coste publicado:** S/25 por persona, S/50 para dos.
 - **Incluye:** furgoneta turística y guía autorizado. Las entradas se cubren con el Boleto Turístico Integral.
-- **Condiciones que conviene confirmar:** tour en español, cuatro recintos, S/50 total al comienzo, transporte y guía, final en Plaza Regocijo y parada textil opcional.
-- **Encuentro publicado:** 09:55 frente a la estatua del Inca de Plaza de Armas; el representante lleva un polo de Cusco Guide.
+- **Confirmación recibida:** tour en español, cuatro recintos, S/50 total al comienzo, transporte y guía, final en Plaza Regocijo y parada textil opcional.
+- **Encuentro:** 09:55 frente a la estatua del Inca de Plaza de Armas; el guía lleva un polo de Cusco Guide.
 - **Cancelación:** permitida hasta el 17 de septiembre.
 
-Horario resultante: desayuno 08:00-09:00; encuentro 09:55; tour 10:00-14:00; comida 14:15-15:30; Mercado de San Pedro 15:45-16:45; Centro de Textiles Tradicionales o paseo 16:45-17:30.
+Horario resultante: desayuno 08:00-09:00; encuentro 09:55; tour 10:00-13:45; regreso desde Tambomachay al centro 13:45-14:30; comida reservada en LIMO 14:30-15:45; paseo al Mercado de San Pedro 15:45-16:00; mercado 16:00-17:00; paseo opcional o regreso al hotel 17:00-17:30.
 
 ---
 

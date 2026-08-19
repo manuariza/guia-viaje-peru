@@ -36,8 +36,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-08-19.4";
-const dataUpdatedLabel = "19 agosto 2026 · horario final del Valle Sagrado, días 11-14";
+const dataVersion = "2026-08-19.5";
+const dataUpdatedLabel = "19 agosto 2026 · reservas de Chicha y LIMO en Cusco";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;

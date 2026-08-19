@@ -99,6 +99,32 @@ export const criticalTasks: CriticalTask[] = [
     links: [{ label: "COSITUC · información oficial", url: "https://cosituc.gob.pe/" }],
   },
   {
+    id: "chicha-cusco",
+    title: "Cena en Chicha Cusco confirmada",
+    due: "16 septiembre · 19:30",
+    status: "confirmado",
+    risk: "low",
+    priority: "secundario",
+    details: [
+      "Reserva confirmada para dos en Plaza Regocijo 261.",
+      "Llegar antes de las 19:25 porque la tolerancia es de 5 minutos. Si el traslado desde Ollantaytambo se retrasa, llamar al teléfono público +51 084 240520, anexo 1103.",
+    ],
+    links: [{ label: "Mapa de Chicha Cusco", url: "https://www.google.com/maps/search/?api=1&query=Chicha+por+Gaston+Acurio+Plaza+Regocijo+261+Cusco" }],
+  },
+  {
+    id: "limo-cusco",
+    title: "Comida en LIMO confirmada",
+    due: "18 septiembre · 14:30",
+    status: "confirmado",
+    risk: "low",
+    priority: "secundario",
+    details: [
+      "Reserva confirmada para dos en Portal de Carnes 236, segunda planta, Plaza de Armas.",
+      "Llegar directamente desde el Upper Ruins Tour; tolerancia máxima de 10 minutos. Después: Mercado de San Pedro de 16:00 a 17:00.",
+    ],
+    links: [{ label: "Mapa de LIMO", url: "https://www.google.com/maps/search/?api=1&query=LIMO+peruano+nikkei+Portal+de+Carnes+236+Cusco" }],
+  },
+  {
     id: "sacred-valley-transport",
     title: "Cerrar el transporte privado del Valle Sagrado",
     due: "Con varias semanas de margen",

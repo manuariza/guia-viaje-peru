@@ -2,6 +2,22 @@ import type { CriticalTask } from "../types";
 
 export const criticalTasks: CriticalTask[] = [
   {
+    id: "lima-restaurants",
+    title: "Plan de comidas de Lima · Isolina y La Mar",
+    due: "8 y 9 de septiembre",
+    status: "confirmado",
+    risk: "low",
+    priority: "secundario",
+    details: [
+      "Isolina Barranco: reservar para dos el martes 8 de septiembre a las 13:00 y llegar entre las 12:45 y las 12:50 a Av. Prolongación San Martín 101.",
+      "La Mar Cebichería: comer el miércoles 9 a las 12:00. No acepta reservas; salir de Huaca Pucllana a las 11:30 y llegar antes de la apertura para entrar en el primer turno.",
+    ],
+    links: [
+      { label: "Isolina · ficha pública", url: "https://www.mesa247.pe/lima/restaurante/isolina" },
+      { label: "La Mar · web oficial", url: "https://www.lamarcebicheria.com/peru/" },
+    ],
+  },
+  {
     id: "international-bags",
     title: "Añadir el equipaje facturado internacional",
     due: "Antes de la apertura del check-in",

@@ -37,7 +37,7 @@ const mapFilters: MapFilterState = {
 };
 
 const dataVersion = "2026-08-14.1";
-const dataUpdatedLabel = "19 agosto 2026 · revisión integral, misa y logística";
+const dataUpdatedLabel = "19 agosto 2026 · restaurantes de Lima y logística";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;

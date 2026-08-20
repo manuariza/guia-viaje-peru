@@ -112,6 +112,23 @@ export const criticalTasks: CriticalTask[] = [
     links: [{ label: "Mapa de Chicha Cusco", url: "https://www.google.com/maps/search/?api=1&query=Chicha+por+Gaston+Acurio+Plaza+Regocijo+261+Cusco" }],
   },
   {
+    id: "cicciolina-cusco",
+    title: "Cena en Cicciolina confirmada",
+    due: "17 septiembre · 20:00",
+    status: "confirmado",
+    risk: "low",
+    priority: "secundario",
+    details: [
+      "Reserva confirmada para dos en Calle Palacio 110.",
+      "La comida del mediodía queda deliberadamente flexible: bocadillo, street food o algo rápido en el centro, sin reserva.",
+      "Llegar con margen y usar el contacto público del restaurante si es necesario modificarla.",
+    ],
+    links: [
+      { label: "Cicciolina · contacto", url: "https://www.cicciolinacuzco.com/contact.html" },
+      { label: "Mapa de Cicciolina", url: "https://www.google.com/maps/search/?api=1&query=Cicciolina+Cusco+Calle+Palacio+110" },
+    ],
+  },
+  {
     id: "limo-cusco",
     title: "Comida en LIMO confirmada",
     due: "18 septiembre · 14:30",

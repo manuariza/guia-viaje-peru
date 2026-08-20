@@ -364,7 +364,7 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
     id: "variable-spend",
     date: "Todo el viaje",
     title: "Comidas no incluidas, seguro, propinas y compras",
-    note: "Gasto variable fuera del total. Chicha Cusco (16 sep, 19:30) y LIMO (18 sep, 14:30) están reservados, pero sus importes a la carta no están documentados. El seguro de viaje no está incluido en esta estimación. Inkaterra incluye las comidas de la estancia, excepto el posible almuerzo del último día, que es opcional y de pago.",
+    note: "Gasto variable fuera del total. Chicha Cusco (16 sep, 19:30), Cicciolina (17 sep, 20:00) y LIMO (18 sep, 14:30) están reservados, pero sus importes a la carta no están documentados. La comida del 17 será algo rápido e improvisado. El seguro de viaje no está incluido en esta estimación. Inkaterra incluye las comidas de la estancia, excepto el posible almuerzo del último día, que es opcional y de pago.",
   },
 ];
 

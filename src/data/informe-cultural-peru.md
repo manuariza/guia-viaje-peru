@@ -775,9 +775,11 @@ No prueba que la piedra fuera derretida. Demuestra experiencia, especialización
 - **09:20-10:30 — Qorikancha:** visita imprescindible. Comprar presencialmente; presupuesto para dos: S/40. No está cubierto por el Boleto Turístico Integral y no necesita reserva.
 - **11:00-12:15 — Catedral y Plaza de Armas:** preguntar en taquilla por el Circuito Religioso. Comprarlo si mantiene S/50 por persona e incluye Catedral y San Blas; presupuesto para dos: S/100. Si ha subido mucho o ya no incluye ambos templos, comprar únicamente la Catedral.
 - **12:15-13:00 — Piedra de los Doce Ángulos y Hatun Rumiyoc:** La Merced es prescindible; entrar solo si está abierta y no retrasa el recorrido.
+- **13:00-14:15 — comida flexible:** improvisar un bocadillo, street food o algo rápido en el centro; no reservar ni retrasar la entrada al Museo Inka.
 - **14:15-15:45 — Museo Inka:** elegido sobre el MAP por centrarse en la historia inca y cusqueña. S/20 por persona, S/40 para dos; no vende entradas online y el pago es exclusivamente en efectivo. El jueves cierra a las 16:00.
 - **16:00-17:30 — San Blas:** usar el Circuito Religioso para entrar en la iglesia si confirma que está incluida; después, talleres y paseo por el barrio.
 - **MAP:** únicamente plan B si el Museo Inka estuviera cerrado o se llegara tarde. S/20 por persona y abierto hasta las 22:00.
+- **20:00 — Cicciolina:** cena reservada para dos en Calle Palacio 110. Salir del alojamiento sobre las 19:30 y llegar con margen.
 
 Presupuesto conservador de entradas: **S/180 para dos**. Llevar al menos **S/200 en efectivo**. No hay que comprar nada por Internet ni reservar transporte o guía.
 

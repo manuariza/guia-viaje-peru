@@ -36,8 +36,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-08-19.5";
-const dataUpdatedLabel = "19 agosto 2026 · reservas de Chicha y LIMO en Cusco";
+const dataVersion = "2026-08-20.1";
+const dataUpdatedLabel = "20 agosto 2026 · reservas de Chicha, Cicciolina y LIMO en Cusco";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;

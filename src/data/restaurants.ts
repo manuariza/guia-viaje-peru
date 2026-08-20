@@ -175,13 +175,13 @@ export const restaurants: FoodRecommendation[] = [
   {
     id: "cicciolina",
     name: "Cicciolina",
-    location: "Cusco",
-    note: "Cena cuidada en Cusco; reservar si os apetece algo especial.",
-    mapUrl: maps("Cicciolina Cusco Peru"),
+    location: "Calle Palacio 110, Cusco",
+    note: "Reserva confirmada para dos el jueves 17 de septiembre a las 20:00. Llegar con margen.",
+    mapUrl: maps("Cicciolina Cusco Calle Palacio 110"),
     website: "https://www.cicciolinacuzco.com/",
     photoIds: ["cusco"],
     placeIds: ["cusco"],
-    dayIds: ["2026-09-17", "2026-09-18"],
+    dayIds: ["2026-09-17"],
   },
   {
     id: "morena",

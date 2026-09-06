@@ -11,6 +11,7 @@ import { TripBudget } from "./components/TripBudget";
 import { TravelGuide } from "./components/TravelGuide";
 import { CulturalGuide } from "./components/CulturalGuide";
 import { TripMap } from "./components/TripMap";
+import { CashGuide } from "./components/CashGuide";
 import type { CriticalTask, MapFilterState } from "./types";
 import { itinerary } from "./data/itinerary";
 import { places } from "./data/places";
@@ -26,6 +27,7 @@ const tabs = [
   { value: "costes", label: "Costes" },
   { value: "pendientes", label: "Preparación" },
   { value: "mapa", label: "Mapa" },
+  { value: "cajeros", label: "Cajeros" },
   { value: "trayectos", label: "Trayectos" },
   { value: "resumen", label: "Resumen" },
 ];
@@ -36,8 +38,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-08-20.1";
-const dataUpdatedLabel = "20 agosto 2026 · reservas de Chicha, Cicciolina y LIMO en Cusco";
+const dataVersion = "2026-09-06.1";
+const dataUpdatedLabel = "6 septiembre 2026 · cajeros, mapas y efectivo en soles";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;
@@ -66,6 +68,11 @@ function SectionHeader({
 }
 
 export default function App() {
+  const [activeTab, setActiveTab] = useState(() => tabs.some((tab) => tab.value === window.location.hash.slice(1)) ? window.location.hash.slice(1) : "dias");
+  const selectTab = (value: string) => {
+    setActiveTab(value);
+    window.history.replaceState(null, "", `#${value}`);
+  };
   const [query, setQuery] = useState("");
   const [detail, setDetail] = useState<DetailPayload | null>(null);
 
@@ -130,7 +137,7 @@ export default function App() {
 
   return (
     <AppLayout>
-      <Tabs.Root defaultValue="dias" className="space-y-5 sm:space-y-6">
+      <Tabs.Root value={activeTab} onValueChange={selectTab} className="space-y-5 sm:space-y-6">
         <header className="sticky top-0 z-40 -mx-3 border-b border-stone-200 bg-stone-50/95 px-3 py-2 backdrop-blur md:-mx-6 md:px-6 md:py-3 lg:-mx-8 lg:px-8">
           <div className="mx-auto flex max-w-[1440px] flex-col gap-3 xl:flex-row xl:items-center xl:justify-between">
             <div className="flex items-center justify-between gap-3">
@@ -199,7 +206,14 @@ export default function App() {
         </Tabs.Content>
 
         <Tabs.Content value="mapa" className="space-y-6 outline-none">
+          <button type="button" onClick={() => selectTab("cajeros")} className="inline-flex min-h-11 items-center gap-2 rounded-md border border-stone-300 bg-white px-4 text-sm font-semibold hover:bg-stone-100">
+            <MapPinned className="size-4" />Ver cajeros y cómo llegar
+          </button>
           <TripMap places={places} transfers={filteredTransfers} filters={mapFilters} onOpen={openDetail} />
+        </Tabs.Content>
+
+        <Tabs.Content value="cajeros" className="space-y-6 outline-none">
+          <CashGuide query={query} />
         </Tabs.Content>
 
         <Tabs.Content value="trayectos" className="space-y-6 outline-none">

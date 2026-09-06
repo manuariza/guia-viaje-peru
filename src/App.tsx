@@ -8,6 +8,7 @@ import { HeroSummary } from "./components/HeroSummary";
 import { SearchInput } from "./components/SearchInput";
 import { Timeline } from "./components/Timeline";
 import { TripBudget } from "./components/TripBudget";
+import { ShoppingGuide } from "./components/ShoppingGuide";
 import { TravelGuide } from "./components/TravelGuide";
 import { CulturalGuide } from "./components/CulturalGuide";
 import { TripMap } from "./components/TripMap";
@@ -25,6 +26,7 @@ import { culturalGuideForDay } from "./data/culturalGuide";
 const tabs = [
   { value: "dias", label: "Día a día" },
   { value: "guia", label: "Guía cultural" },
+  { value: "compras", label: "Compras" },
   { value: "costes", label: "Costes" },
   { value: "pendientes", label: "Preparación" },
   { value: "mapa", label: "Mapa" },
@@ -39,8 +41,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-09-06.3";
-const dataUpdatedLabel = "6 septiembre 2026 · una Revolut y retirada de efectivo pendiente";
+const dataVersion = "2026-09-06.4";
+const dataUpdatedLabel = "6 septiembre 2026 · mercados, charangos y vasijas silbadoras";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;
@@ -264,6 +266,10 @@ export default function App() {
           <Timeline days={filteredDays} onOpen={openDetail} />
         </Tabs.Content>
 
+        <Tabs.Content value="compras" className="space-y-6 outline-none">
+          <ShoppingGuide query={query} />
+        </Tabs.Content>
+
         <Tabs.Content value="guia" className="space-y-6 outline-none">
           <SectionHeader
             title="Guía cultural del viaje"
@@ -394,7 +400,7 @@ export default function App() {
             </div>
           </section>
 
-          <TravelGuide />
+          <TravelGuide onOpenShopping={() => selectTab("compras")} />
         </Tabs.Content>
 
       </Tabs.Root>

@@ -3,6 +3,20 @@ import type { CriticalTask } from "../types";
 
 export const criticalTasks: CriticalTask[] = [
   {
+    id: "huaco-export-documents",
+    title: "Comparar y documentar la compra de una vasija silbadora",
+    due: "Consultar y resolver documentación antes de pagar; posible recogida 17–18 sep",
+    status: "pendiente", risk: "high", priority: "prioritario",
+    details: [
+      "Consultar antes del viaje a Old Peru Replicas (USD 149–219 publicados en web) y Cerámicas Andina (a cotizar). Confirmar modelo de doble cámara, demostración con agua, existencias y punto de recogida.",
+      "Pisac, Centro Artesanal Cusco, San Pedro, Fundo El Fierro, Mercado Indio e Inka Plaza son lugares para preguntar; no hay un puesto con vasija de agua ni un precio inferior confirmado en esos mercados. Ver la pestaña Compras para mapas, tiendas y precios.",
+      "Acordar antes de pagar factura, embalaje y certificado oficial de bienes no pertenecientes al Patrimonio Cultural, cuando corresponda. Un certificado comercial no equivale al oficial; el plazo publicado en Cusco puede llegar a siete días hábiles. Recoger el 17–18 solo si la documentación ya queda resuelta.",
+    ],
+    links: [
+      { label: "Directorio completo de compras", url: "https://manuariza.github.io/guia-viaje-peru/#compras" },
+      { label: "Cerámicas Andina · pedir cotización", url: "https://www.construex.com.pe/exhibidores/ceramicas_andina_cusco/producto/huaco_silbador" },{ label: "Procedimiento oficial en Cusco", url: "https://www.gob.pe/68767-solicitar-el-certificado-de-bienes-no-pertenecientes-al-patrimonio-para-exportacion-en-cusco" }],
+  },
+  {
     id: "withdraw-cash-revolut",
     title: cashPlan.title,
     due: "8–10 sep · antes del Valle; reponer 16–18 sep",

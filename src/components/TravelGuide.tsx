@@ -20,7 +20,7 @@ const categoryMeta = {
   compras: { label: "Mercados y compras", icon: ShoppingBag },
 } satisfies Record<GuideCategory, { label: string; icon: typeof Utensils }>;
 
-export function TravelGuide() {
+export function TravelGuide({ onOpenShopping }: { onOpenShopping?: () => void }) {
   return (
     <section aria-labelledby="travel-guide-title">
       <div className="mb-4">
@@ -31,6 +31,8 @@ export function TravelGuide() {
           Opciones ordenadas según el itinerario, con indicaciones prácticas para reservar cultura, comidas y compras artesanales.
         </p>
       </div>
+
+      <button type="button" onClick={onOpenShopping} className="mb-4 min-h-11 rounded-md border border-stone-200 bg-white px-4 py-2 text-sm font-semibold text-stone-800 hover:bg-stone-50">Directorio de compras con precios y Google Maps</button>
 
       <div className="space-y-3">
         {destinationGuides.map((destination, index) => (
@@ -97,7 +99,7 @@ export function TravelGuide() {
                               rel="noreferrer"
                               className="inline-flex min-h-11 items-center gap-2 rounded-md border border-stone-200 bg-white px-3 text-xs font-semibold text-stone-700 hover:border-stone-300 active:translate-y-px"
                             >
-                              Información oficial
+                              Fuente / información
                               <ExternalLink className="size-3.5" />
                             </a>
                             {item.mapUrl ? (

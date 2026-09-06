@@ -129,7 +129,7 @@ export interface BudgetItem {
 
 export type BudgetCurrency = "EUR" | "USD" | "PEN";
 
-export type BudgetCategory = "vuelo" | "hotel" | "tren" | "entrada" | "traslado";
+export type BudgetCategory = "vuelo" | "hotel" | "tren" | "entrada" | "traslado" | "seguro";
 
 export interface DailyBudgetLine {
   id: string;

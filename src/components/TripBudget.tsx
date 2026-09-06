@@ -5,6 +5,7 @@ import {
   CheckCircle2,
   CircleDollarSign,
   Plane,
+  ShieldCheck,
   Ticket,
   Train,
 } from "lucide-react";
@@ -20,6 +21,7 @@ const categoryLabels: Record<BudgetCategory, string> = {
   tren: "Tren",
   entrada: "Entrada",
   traslado: "Traslado",
+  seguro: "Seguro",
 };
 
 function formatNumber(value: number) {
@@ -44,6 +46,7 @@ function categoryIcon(category: BudgetCategory) {
   if (category === "hotel") return <BedDouble className="size-4" />;
   if (category === "tren") return <Train className="size-4" />;
   if (category === "entrada") return <Ticket className="size-4" />;
+  if (category === "seguro") return <ShieldCheck className="size-4" />;
   return <Car className="size-4" />;
 }
 
@@ -144,6 +147,7 @@ export function TripBudget({ days }: { days: DayPlan[] }) {
   const flightLines = dailyBudgetLines.filter((line) => line.category === "vuelo" && !line.included);
   const trainLines = dailyBudgetLines.filter((line) => line.category === "tren" && !line.included);
   const entryLines = dailyBudgetLines.filter((line) => line.category === "entrada");
+  const insuranceLines = dailyBudgetLines.filter((line) => line.category === "seguro");
 
   const summaryCards = [
     {
@@ -169,6 +173,12 @@ export function TripBudget({ days }: { days: DayPlan[] }) {
       value: entryLines.reduce((total, line) => total + toEur(line), 0),
       note: `${formatOriginalTotals(entryLines)} · 2 entradas`,
       icon: <Ticket className="size-4" />,
+    },
+    {
+      label: "Seguro de viaje",
+      value: insuranceLines.reduce((total, line) => total + toEur(line), 0),
+      note: `${formatOriginalTotals(insuranceLines)} · referencia con cancelación`,
+      icon: <ShieldCheck className="size-4" />,
     },
   ];
 

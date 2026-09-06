@@ -36,6 +36,16 @@ export const dailyBudgetLines: DailyBudgetLine[] = [
     note: "El itinerario presupone dos maletas facturadas; sustituir esta estimación por la tarifa real de la reserva elegida.",
   },
   {
+    id: "intermundial-totaltravel-reference",
+    dayId: "2026-09-08",
+    category: "seguro",
+    title: "Seguro de viaje Totaltravel · referencia para 2 personas",
+    amount: 167.72,
+    currency: "EUR",
+    status: "confirmado",
+    note: "Coste de referencia obtenido para España-Perú, 15 días y dos adultos, con ampliación de cancelación hasta 5.000 € por viajero. Incluye asistencia médica hasta 5.000.000 € y repatriación sanitaria ilimitada por persona.",
+  },
+  {
     id: "wyndham-night",
     dayId: "2026-09-08",
     category: "hotel",
@@ -343,10 +353,10 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
   {
     id: "olo-esim-shared",
     date: "7 sep",
-    title: "Una eSIM OLO Turista de 15 días",
+    title: "Comprobar la eSIM incluida con el seguro; OLO como respaldo",
     amount: 89,
     currency: "PEN",
-    note: "Plan recomendado: una sola eSIM ilimitada en el móvil principal y conexión compartida con el segundo. Comprobar compatibilidad y punto de acceso; comprar y activar el plan el día anterior a la salida con Wi‑Fi estable.",
+    note: "Algunas pólizas Totaltravel incluyen una eSIM internacional gratuita. Comprobar en la app sus datos, duración y compatibilidad; si no basta para los 15 días o no permite compartir Internet, comprar una OLO ilimitada por S/89 como respaldo.",
   },
   {
     id: "consettur",
@@ -365,8 +375,8 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
   {
     id: "variable-spend",
     date: "Todo el viaje",
-    title: "Comidas no incluidas, seguro, propinas y compras",
-    note: "Gasto variable fuera del total. Chicha Cusco (16 sep, 19:30), Cicciolina (17 sep, 20:00) y LIMO (18 sep, 14:30) están reservados, pero sus importes a la carta no están documentados. La comida del 17 será algo rápido e improvisado. El seguro de viaje no está incluido en esta estimación. Inkaterra incluye las comidas de la estancia, excepto el posible almuerzo del último día, que es opcional y de pago.",
+    title: "Comidas no incluidas, propinas y compras",
+    note: "Gasto variable fuera del total. La referencia del seguro ya está contabilizada. Chicha Cusco (16 sep, 19:30), Cicciolina (17 sep, 20:00) y LIMO (18 sep, 14:30) están reservados, pero sus importes a la carta no están documentados. Inkaterra incluye las comidas de la estancia, excepto el posible almuerzo del último día, que es opcional y de pago.",
   },
 ];
 
@@ -392,6 +402,11 @@ export const budgetItems: BudgetItem[] = [
     notes: "Siete servicios por vehículo para dos, pendientes de pagar en efectivo. Contabilizados una sola vez en el coste de cada día. Aclarar la duración del día 13.",
   },
   {
+    category: "Seguro de viaje",
+    range: "Referencia: 167,72 EUR para dos",
+    notes: "Totaltravel con cancelación hasta 5.000 EUR por viajero, asistencia médica hasta 5.000.000 EUR y repatriación sanitaria ilimitada.",
+  },
+  {
     category: "Comidas e imprevistos",
     range: "Variable",
     notes: "Inkaterra incluye las comidas de la estancia, salvo el almuerzo opcional y de pago del último día; mantener margen para restaurantes, propinas, taxis y cambios de horario.",
@@ -400,6 +415,6 @@ export const budgetItems: BudgetItem[] = [
 
 export const totalBudget = {
   label: "Total previsto",
-  range: "≈ 6.130,06 €",
+  range: "≈ 6.297,78 €",
   scope: "2 personas",
 };

@@ -34,12 +34,19 @@ export function ShoppingGuide({ query = "" }: { query?: string }) {
         {[
           ["Tradición y autoría", "Chinchero, CTTC, Awamaki, Fundo El Fierro y San Blas: las paradas que priorizar para conocer la procedencia.", "artesanos"],
           ["Charango · buscar entre S/300–500", "Presupuesto orientativo para iniciación. Comparar en Pacha (Pisac) y Sabino (Cusco); sus tarifas están por consultar.", "charangos"],
-          ["Vasija · web USD 149–219", "Referencia de Old Peru, no precio medio de mercado. Pedir tarifa de recogida, demostración con agua y documentación.", "vasijas"],
+          ["Vasija · web USD 149–320", "Old Peru y ALQA publican piezas hidráulicas. Es una referencia de catálogo, no un precio medio; confirmar stock, recogida y documentación.", "vasijas"],
         ].map(([title, text, value]) => <button key={value} type="button" onClick={() => { setCategory(value); setCity("todas"); setSearch(""); setPriorityOnly(false); }} className="rounded-lg border border-stone-200 bg-white p-4 text-left hover:border-stone-400 focus-visible:outline-2 focus-visible:outline-stone-700">
           <p className="text-sm font-semibold text-stone-950">{title}</p><p className="mt-2 text-sm leading-6 text-stone-600">{text}</p>
           <span className="mt-3 inline-flex items-center gap-2 text-xs font-semibold text-stone-700">Ver opciones <ShoppingBag className="size-3.5" /></span>
         </button>)}
       </div>
+
+      <details className="group rounded-lg border border-cyan-200 bg-cyan-50/60 p-4" open>
+        <summary className="flex min-h-7 cursor-pointer list-none items-center justify-between gap-3 font-semibold text-stone-900">Revisión específica de vasijas silbadoras <ChevronDown className="size-5 shrink-0 group-open:rotate-180" /></summary>
+        <p className="mt-3 text-sm leading-6 text-stone-700">{shopping.vesselReview.summary}</p>
+        <div className="mt-4 grid gap-3 md:grid-cols-2">{shopping.vesselReview.coverage.map((item) => <div key={item.city} className="rounded-md border border-cyan-100 bg-white/80 p-3"><h3 className="text-sm font-semibold text-stone-900">{item.city}</h3><p className="mt-1 text-sm leading-6 text-stone-600">{item.result}</p></div>)}</div>
+        <p className="mt-4 text-xs leading-5 text-stone-600">{shopping.vesselReview.outsideRoute}</p>
+      </details>
 
       <details className="group rounded-lg border border-stone-200 bg-white p-4">
         <summary className="flex min-h-7 cursor-pointer list-none items-center justify-between gap-3 font-semibold text-stone-900">Precios de referencia y cómo compararlos <ChevronDown className="size-5 shrink-0 group-open:rotate-180" /></summary>
@@ -93,11 +100,12 @@ export function ShoppingGuide({ query = "" }: { query?: string }) {
           <p className="mt-3 flex items-start gap-2 text-sm leading-6 text-stone-700"><MapPin className="mt-1 size-4 shrink-0" />{venue.address}</p>
           <p className="mt-3 text-sm leading-6 text-stone-700">{venue.products}</p>
           <div className="mt-3 rounded-md bg-stone-50 p-3"><p className="text-xs font-semibold uppercase text-stone-500">Precio de referencia</p><p className="mt-1 text-sm font-medium leading-6 text-stone-900">{venue.price}</p></div>
+          {venue.vesselEvidence && <div className="mt-3 rounded-md border border-cyan-200 bg-cyan-50 p-3"><p className="text-xs font-semibold uppercase text-cyan-900">Evidencia sobre la vasija</p><p className="mt-1 text-sm leading-6 text-cyan-950">{venue.vesselEvidence}</p></div>}
           <p className="mt-3 text-sm leading-6 text-stone-600"><strong className="text-stone-800">Disponibilidad: </strong>{venue.availability}</p>
           <a href={mapUrl(venue.mapQuery)} target="_blank" rel="noreferrer" aria-label={`Google Maps · ${venue.name}`} className="mt-4 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-md bg-stone-900 px-4 py-2 text-sm font-semibold text-white hover:bg-stone-700 sm:w-auto"><MapPin className="size-4" />Abrir en Google Maps<ExternalLink className="size-3.5" /></a>
           <details className="group mt-3 border-t border-stone-100 pt-2"><summary className="flex min-h-11 cursor-pointer list-none items-center justify-between gap-2 text-sm font-semibold text-stone-700">Contexto, consejos y fuentes<ChevronDown className="size-4 shrink-0 group-open:rotate-180" /></summary>
             <p className="mt-1 text-sm leading-6 text-stone-600">{venue.context}</p><p className="mt-3 text-sm leading-6 text-stone-600"><strong className="text-stone-800">Al comprar: </strong>{venue.advice}</p>
-            {venue.contact && <p className="mt-3 text-sm">Contacto publicado: <a className="underline underline-offset-4" href={`tel:${venue.contact.replaceAll(" ", "")}`}>{venue.contact}</a></p>}
+            {venue.contact && <p className="mt-3 text-sm">Contacto publicado: <a className="underline underline-offset-4" href={venue.contactUrl ?? `tel:${venue.contact.replaceAll(" ", "")}`}>{venue.contact}</a></p>}
             <div className="mt-3 flex flex-wrap gap-2">{venue.sources.map((source) => <a key={source.url} href={source.url} target="_blank" rel="noreferrer" className={linkStyle}>{source.label}<ExternalLink className="size-3.5 shrink-0" /></a>)}</div>
           </details>
         </article>)}</div>

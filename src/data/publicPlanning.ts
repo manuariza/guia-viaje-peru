@@ -8,12 +8,15 @@ export const criticalTasks: CriticalTask[] = [
     due: "Consultar y resolver documentación antes de pagar; posible recogida 17–18 sep",
     status: "pendiente", risk: "high", priority: "prioritario",
     details: [
-      "Consultar antes del viaje a Old Peru Replicas (USD 149–219 publicados en web) y Cerámicas Andina (a cotizar). Confirmar modelo de doble cámara, demostración con agua, existencias y punto de recogida.",
-      "Pisac, Centro Artesanal Cusco, San Pedro, Fundo El Fierro, Mercado Indio e Inka Plaza son lugares para preguntar; no hay un puesto con vasija de agua ni un precio inferior confirmado en esos mercados. Ver la pestaña Compras para mapas, tiendas y precios.",
+      "Consultar antes del viaje a Old Peru Replicas (USD 149–219 publicados) y ALQA Ollantaytambo (USD 320 publicado). Confirmar modelo de doble cámara, demostración con agua, existencias, punto de recogida y precio presencial.",
+      "Taki Runa en Pisac y José Vitancio Umeres en el Museo Inka son artesanos documentados, pero la visita o venta directa no está confirmada. Cerámicas Andina anuncia un huaco silbador sin dirección ni mecanismo hidráulico verificados. Los mercados son lugares para preguntar, no pruebas de stock ni de menor precio. Ver Compras para la revisión por ciudad.",
       "Acordar antes de pagar factura, embalaje y certificado oficial de bienes no pertenecientes al Patrimonio Cultural, cuando corresponda. Un certificado comercial no equivale al oficial; el plazo publicado en Cusco puede llegar a siete días hábiles. Recoger el 17–18 solo si la documentación ya queda resuelta.",
     ],
     links: [
       { label: "Directorio completo de compras", url: "https://manuariza.github.io/guia-viaje-peru/#compras" },
+      { label: "ALQA · botella silbadora publicada", url: "https://alqagaleria.com/Botella-Silbadora-Cernicalo-0234-25" },
+      { label: "ALQA · dirección y horarios", url: "https://alqamuseo.com/Information" },
+      { label: "Museo Inka · José Vitancio Umeres", url: "https://museoinka.unsaac.edu.pe/temporales/musica.php" },
       { label: "Cerámicas Andina · pedir cotización", url: "https://www.construex.com.pe/exhibidores/ceramicas_andina_cusco/producto/huaco_silbador" },{ label: "Procedimiento oficial en Cusco", url: "https://www.gob.pe/68767-solicitar-el-certificado-de-bienes-no-pertenecientes-al-patrimonio-para-exportacion-en-cusco" }],
   },
   {

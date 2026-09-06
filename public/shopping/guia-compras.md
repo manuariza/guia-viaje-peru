@@ -1,22 +1,39 @@
-# Compras y artesanía · Perú
+# Compras en Perú: mercados, charangos y vasijas silbadoras
 
 Actualizado: 6 septiembre 2026.
 
-Directorio para consultar durante el viaje. Precios de la investigación del 6 de septiembre de 2026: son referencias de catálogo, no reservas ni garantías de existencias. S/ = soles (PEN); USD = dólares estadounidenses.
+Directorio para consultar durante el viaje. La revisión específica de vasijas silbadoras distingue las piezas publicadas, los artesanos documentados y los mercados donde solo cabe preguntar. Los precios investigados el 6 de septiembre de 2026 son referencias de catálogo, no reservas ni garantías de existencias. S/ = soles (PEN); USD = dólares estadounidenses.
 
 Maps abre una búsqueda por nombre y dirección publicada, no un pin comercial verificado. En ubicaciones históricas o incompletas, confirma el punto de atención antes de desplazarte.
+
+## Revisión específica de vasijas silbadoras
+
+Se revisaron todas las paradas de la ruta buscando el producto exacto: una vasija o botella de doble cámara que silba al mover el agua. Solo Old Peru y ALQA muestran actualmente piezas inequívocas con precio publicado. José Vitancio Umeres y Taki Runa son fabricantes documentados, pero la venta o visita directa debe acordarse. Los mercados se mantienen como lugares para preguntar y comparar, sin inventar un puesto ni existencias.
+
+- **Lima:** Wari Runa publica un silbador de cerámica por S/850, pero no se ha probado que funcione con agua. Mercado Indio e Inka Plaza: preguntar sin contar con stock.
+- **Arequipa:** No apareció una tienda o artesano actual que anuncie la vasija hidráulica exacta. Fundo El Fierro es la mejor consulta presencial de artesanía.
+- **Pisac:** Taki Runa, del taller-escuela Wakamuchaq, está documentado como fabricante de vasijas silbadoras. No se encontró dirección pública, catálogo ni venta sin cita.
+- **Urubamba:** Alfredo Walter Najarro está documentado en una visita de 2017, pero no hay punto comercial actual verificable. No se añade un desvío basado en esa referencia histórica.
+- **Chinchero:** No se identificó una venta específica. La feria dominical sigue siendo útil para textiles y artesanía, sin promesa de vasijas.
+- **Maras / Moray:** No se identificó vendedor específico ni mercado tradicional de esta cerámica. Los puestos de las salineras se centran en sal y recuerdos.
+- **Ollantaytambo:** ALQA Galería publica una botella silbadora hidráulica de José Vitancio Umeres por USD 320. Es la nueva pista comercial más sólida; confirmar stock y atención de galería el lunes 14.
+- **Aguas Calientes:** No se localizó un vendedor específico. El mercado artesanal sirve solo para preguntar; no dejar aquí la compra imprescindible.
+- **Cusco:** Old Peru publica varios modelos por USD 149–219. Cerámicas Andina anuncia un huaco silbador sin dirección ni mecanismo confirmados. José Vitancio Umeres fabrica reproducciones y aparece vinculado al Museo Inka y a ALQA.
+- **Puerto Maldonado:** No se identificó oferta de vasijas hidráulicas. Priorizar artesanía amazónica comunitaria si el lodge la ofrece.
+
+**Fuera de la ruta:** También se localizaron artesanos documentados en Raqchi (Margarita Camino Arosquipa) y Trujillo (Hermanos García), pero quedan fuera de la ruta y no se añadió ningún desvío sin un punto de venta actual confirmado.
 
 ## Cuándo comprar en la ruta
 
 - **Lima · 8–9 sep:** Petit Thouars reúne dos galerías para comparar. Luna, Home Music y Wari Runa requieren un desvío; confirmar antes y valorar cargar la compra desde el inicio.
 - **Arequipa · 9–11 sep:** Fundo El Fierro encaja el 10 cerca de Santa Catalina. San Camilo ya está previsto el 11 por la mañana. Jihuallanca solo tras confirmar que sigue atendiendo.
-- **Pisac · 12 sep · sábado:** Mercado previsto de 13:00 a 13:45. Aprovechar para preguntar en Pacha por charangos; el tiempo es limitado. El domingo suele tener más actividad, pero vuestra visita es el sábado.
+- **Pisac · 12 sep · sábado:** Mercado previsto de 13:00 a 13:45. Taki Runa dirige el taller-escuela Wakamuchaq y fabrica instrumentos cerámicos, pero no hay dirección pública ni venta presencial confirmada: solo intentarlo con cita previa. Aprovechar también para preguntar en Pacha por charangos.
 - **Urubamba · 11–14 sep:** Mercado Modelo para productos cotidianos, mejor por la mañana. No añadirlo automáticamente al final del día 12: esa tarde ya hay una misa prevista.
 - **Chinchero · 13 sep · domingo:** Priorizar la feria tradicional. El CTTC no publica horario dominical para esta sede: consultar antes. El recorrido contratado dura seis horas; cualquier ampliación sigue por aclarar.
 - **Maras / Moray · 13 sep:** Los puestos de las salineras sirven para sal y recuerdos. No se ha identificado un mercado tradicional en Moray ni una tienda específica de vasijas silbadoras.
-- **Ollantaytambo · 14–15 sep:** Mercado junto al acceso a las ruinas; Awamaki como alternativa de textiles con origen identificable. Mejor el 14, sin apurar el tren del 15.
+- **Ollantaytambo · 14–15 sep:** ALQA es la parada más concreta para vasijas: su galería publica una botella silbadora hidráulica. El lunes 14 el recinto abre desde las 12:00, pero la sala permanente se anuncia de martes a domingo; confirmar por correo la atención de galería y el stock. Mercado y Awamaki completan la visita.
 - **Aguas Calientes · 15–16 sep:** Mercado al lado de la estación: cómodo para una compra pequeña. Para una pieza artesanal especial, comparar antes en el Valle o después en Cusco.
-- **Cusco · 16–18 sep:** El 17: CTTC junto a Qorikancha, y Sabino durante San Blas (16:00–17:30). El 18: San Pedro (16:00–17:00). Old Peru requiere consulta previa; los trámites de réplicas no se resuelven necesariamente en esos dos días.
+- **Cusco · 16–18 sep:** Old Peru sigue siendo la compra más concreta. El 17, durante la visita ya prevista al Museo Inka, preguntar por José Vitancio Umeres y sus reproducciones hidráulicas; el museo es un punto de contacto y exposición, no una tienda con stock confirmado. Los trámites de réplicas no se resuelven necesariamente en esos dos días.
 - **Puerto Maldonado · 19–21 sep:** La estancia está centrada en el lodge y los traslados. Consultar si ofrecen artesanía comunitaria; el centro urbano solo si encaja, sin comprometer vuelos ni actividades.
 
 ## Directorio de mercados, tiendas y talleres
@@ -93,6 +110,7 @@ Fuentes: [Catálogo y precios](https://www.homemusic.pe/categoria/instrumentos-a
 - **Productos:** Silbador de banda musical, escultura de cerámica modelada y pintada a mano.
 - **Precio:** S/850, IGV incluido, por el Silbador de banda musical.
 - **Disponibilidad:** Producto silbador anunciado; funcionamiento con agua pendiente de confirmar. No dar por actual el stock mostrado en la web.
+- **Evidencia sobre la vasija:** Silbador publicado; mecanismo con agua sin confirmar.
 
 Taller de tradición alfarera ayacuchana. La pieza publicada mide 33,5 × 41,5 × 12 cm: es grande y no equivale necesariamente a la vasija de doble cámara buscada.
 
@@ -161,6 +179,22 @@ Combina artesanos y revendedores. Hay artesanía a diario; el domingo suele habe
 **Consejo:** Usarlo para una primera comparación. Para un charango que se pueda tocar, buscar Pacha y pedir una demostración; vigilar el tiempo del traslado.
 
 Fuentes: [Municipalidad de Pisac](https://www.gob.pe/institucion/munipisac/noticias/1312965-importante-reunion-tripartita-en-la-gercetur-para-promocionar-el-mercado-artesanal-y-otros-de-interes-turistico-de-pisac) · [Ficha turística MINCETUR](https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=10176).
+
+### Taki Runa · taller-escuela Wakamuchaq · Pisac
+
+- **Tipo:** Artesano de instrumentos cerámicos · visita por confirmar.
+- **Cuándo:** 12 sep únicamente con cita y ubicación acordadas antes del viaje.
+- **Dirección:** Pisac, Valle Sagrado; taller sin dirección pública localizada. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Taller%20Wakamuchaq%20Taki%20Runa%20Pisac%20Peru).
+- **Productos:** Vasijas silbadoras e instrumentos cerámicos arqueológicos reproducidos con técnicas ancestrales.
+- **Precio:** A consultar; no se encontró precio local de venta. Los importes de talleres impartidos fuera de Perú no sirven como referencia de compra.
+- **Disponibilidad:** Fabricación documentada; dirección exacta, cita, pieza terminada y venta presencial pendientes de confirmar.
+- **Evidencia sobre la vasija:** Artesano documentado; compra y visita solo con confirmación previa.
+
+Taki Runa está documentado como ceramista de Pisac y responsable de Wakamuchaq. Ha impartido talleres específicos de vasijas silbadoras hidráulicas. Las fuentes acreditan oficio y ubicación general, pero no una tienda abierta, un catálogo actual ni venta inmediata.
+
+**Consejo:** No consumir los 45 minutos de mercado buscándolo sin cita. Pedir ubicación, foto o vídeo con agua, precio, medidas, plazo y documentación antes del día 12.
+
+Fuentes: [Wakamuchaq en Pisac y trayectoria](https://www.holisticelementalretreat.com/elementsofperu.html) · [Taller específico de vasijas silbadoras · 2024](https://www.eltribuno.com/vida-y-tendencia/2024-8-18-7-27-0-taller-sobre-vasijas-silbadoras-en-san-carlos/amp) · [Mecanismo hidráulico descrito · 2019](https://www.majestadfm.com/programas/en-contacto/articulos/nt-taller-en-mallasilla-para-transformar-la-arcilla-en-vasijas-silbadoras/).
 
 ### Pacha Instrumentos · Pisac
 
@@ -253,6 +287,24 @@ Muy cómodo por su ubicación. La oferta mezcla recuerdos comerciales y piezas a
 **Consejo:** Mirar sin compromiso y comparar con Pisac. Para textiles con productor identificable, contrastar con Awamaki.
 
 Fuentes: [Ficha y ubicación del mercado](https://www.tripadvisor.es/Attraction_Review-g294319-d8028490-Reviews-Mercado_Artesanal-Ollantaytambo_Sacred_Valley_Cusco_Region.html).
+
+### ALQA Museo y Galería de Expresiones Andinas · Ollantaytambo
+
+- **Tipo:** Museo y galería de arte tradicional andino.
+- **Cuándo:** 14 sep desde las 12:00; confirmar atención de galería y stock por correo.
+- **Dirección:** Calle Sipas s/n, Ollantaytambo 08676. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=ALQA%20Museo%20Calle%20Sipas%20Ollantaytambo%20Peru).
+- **Productos:** Botella silbadora «Cernícalo» de doble cuerpo, obra contemporánea de José Vitancio Umeres, y otras expresiones de arte andino.
+- **Precio:** USD 320 por la botella silbadora «Cernícalo» publicada; 21,5 × 17,8 × 9,4 cm y 0,650 kg. Precio local, stock y embalaje por confirmar.
+- **Disponibilidad:** Producto específico publicado online; no equivale a una reserva ni confirma que la pieza esté físicamente en Ollantaytambo el día de la visita.
+- **Evidencia sobre la vasija:** Venta online documentada, autor y mecanismo con agua identificados.
+
+La galería mantiene una ficha comercial que explica el mecanismo hidráulico: al inclinar la pieza con agua, el aire acciona el silbato. El recinto abre los lunes desde las 12:00, pero la sala permanente se anuncia de martes a domingo; conviene confirmar qué parte estará atendida el lunes 14.
+
+**Consejo:** Escribir antes a hola@alqamuseo.com para confirmar existencias, precio presencial, visita el lunes, recogida, embalaje y documentación oficial. Si se agota el cernícalo, preguntar por otra botella hidráulica del mismo autor.
+
+Contacto publicado: hola@alqamuseo.com.
+
+Fuentes: [Ficha de la botella · USD 320](https://alqagaleria.com/Botella-Silbadora-Cernicalo-0234-25) · [Dirección, correo y horarios oficiales](https://alqamuseo.com/Information) · [Venta observada en la tienda · 2023](https://itravelperu.com/best-things-to-do-in-ollantaytambo-sacred-valley-peru/).
 
 ### Awamaki · Ollantaytambo
 
@@ -384,12 +436,31 @@ Fuentes: [Yaparu · accesorios](https://yaparu.com/categoria-producto/accesorios
 - **Productos:** Vasijas silbadoras de agua, modelos de animales y figuras andinas.
 - **Precio:** USD 149: cóndor, ave, mono, búho y otros modelos; USD 179: guacamayo y perro grande; USD 219: perro peruano.
 - **Disponibilidad:** Modelos publicados; stock, precio presencial y punto de recogida por confirmar.
+- **Evidencia sobre la vasija:** Catálogo activo y precios publicados; recogida local pendiente de confirmar.
 
-La opción más concreta de la investigación para una vasija con modelo y precio publicado. El taller de la familia Ccahuana trabaja reproducciones contemporáneas; la ubicación procede de una ficha de viajeros.
+La opción más concreta de la investigación para una vasija con varios modelos y precios publicados. El taller de la familia Ccahuana trabaja reproducciones contemporáneas; la ubicación procede de una ficha de viajeros y debe confirmarse.
 
 **Consejo:** Solicitar precio para recoger en Cusco, desglose de embalaje y documentación, y vídeo del modelo funcionando con agua. No asumir que el precio web internacional sea la tarifa local ni convertir USD a soles con un cambio inventado.
 
-Fuentes: [Tienda y catálogo](https://oldperureplicas.com/) · [Ubicación publicada](https://www.tripadvisor.in/Attraction_Review-g294314-d10833227-Reviews-Old_Peru_Replicas-Cusco_Cusco_Region.html).
+Fuentes: [Tienda y catálogo](https://oldperureplicas.com/) · [Escaparate activo en Etsy](https://www.etsy.com/shop/OldPeruReplicas) · [Ubicación publicada](https://www.tripadvisor.in/Attraction_Review-g294314-d10833227-Reviews-Old_Peru_Replicas-Cusco_Cusco_Region.html).
+
+### José Vitancio Umeres · consulta en Museo Inka · Cusco
+
+- **Tipo:** Maestro ceramista e investigador · punto de contacto institucional.
+- **Cuándo:** 17 sep, durante la visita al Museo Inka de 14:15 a 15:45.
+- **Dirección:** Museo Inka, Cuesta del Almirante 103, Cusco. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Museo%20Inka%20Cuesta%20del%20Almirante%20103%20Cusco).
+- **Productos:** Reproducciones de botellas y vasijas silbadoras hidráulicas que imitan sonidos de animales.
+- **Precio:** A consultar. ALQA publica una pieza suya por USD 320, pero no existe una tarifa confirmada de venta directa en el museo.
+- **Disponibilidad:** Autor y producto documentados; presencia, contacto directo, venta en museo y pieza disponible pendientes de confirmar.
+- **Evidencia sobre la vasija:** Fabricante y obra documentados; el museo es contacto, no stock confirmado.
+
+La web oficial del Museo Inka atribuye a Umeres una muestra de instrumentos que usan agua o viento. Una entrevista de 2023 documenta que él construye vasijas silbadoras; ALQA vende una pieza firmada por él. El museo sirve para preguntar o localizarlo, pero no se ha acreditado que venda allí ni que esté presente el 17.
+
+**Consejo:** Aprovechar la visita ya prevista y preguntar en recepción por la exposición o por cómo contactar al artesano. No hacer un viaje separado ni asumir que el museo es una tienda. Pedir demostración con agua y documentación antes de pagar.
+
+Contacto publicado: +51 84 232398 · anexo 2201.
+
+Fuentes: [Museo Inka · autor, instrumentos y dirección](https://museoinka.unsaac.edu.pe/temporales/musica.php) · [Entrevista al maestro ceramista · 2023](https://repositorio.sunedu.gob.pe/backend/api/core/bitstreams/feaa506f-5d6d-4c6a-9c7b-0ebc4aa7ad2a/content) · [Pieza firmada y precio en ALQA](https://alqagaleria.com/Botella-Silbadora-Cernicalo-0234-25).
 
 ### Cerámicas Andina Cusco · Cusco
 
@@ -399,8 +470,9 @@ Fuentes: [Tienda y catálogo](https://oldperureplicas.com/) · [Ubicación publi
 - **Productos:** Anuncio específico de «Huaco Silbador».
 - **Precio:** A cotizar; no hay precio publicado verificable.
 - **Disponibilidad:** Producto anunciado; dirección, stock y mecanismo con agua pendientes de confirmar.
+- **Evidencia sobre la vasija:** Huaco silbador anunciado; agua, dirección y stock sin confirmar.
 
-Segunda consulta útil para obtener un presupuesto real. Un anuncio en Construex no confirma existencias, funcionamiento ni un punto de venta abierto al público.
+Consulta útil para pedir otro presupuesto. Un anuncio en Construex no confirma existencias, funcionamiento hidráulico ni un punto de venta abierto al público.
 
 **Consejo:** Pedir foto, medidas, vídeo con agua, importe total, ubicación y condiciones de recogida antes de decidir.
 
@@ -434,6 +506,7 @@ Fuentes: [Guía PROMPERÚ · referencia de 2018](https://repositorio.promperu.go
 | Vasija: guacamayo o perro grande | Old Peru Replicas | USD 179 | Comparar medidas y mecanismo; precio presencial, embalaje y documentación pendientes de concretar. [Fuente](https://oldperureplicas.com/) |
 | Vasija: perro peruano | Old Peru Replicas | USD 219 | Modelo concreto del catálogo; no usarlo como media de todas las vasijas. [Fuente](https://oldperureplicas.com/) |
 | Silbador de banda musical · escultura | Wari Runa | S/850 | IGV incluido. 33,5 × 41,5 × 12 cm. Confirmar que funciona con agua; no es necesariamente comparable a una vasija de doble cámara. [Fuente](https://wariruna.ruraqmaki.pe/producto/silbador-de-banda-musical) |
+| Botella silbadora hidráulica «Cernícalo» | ALQA Galería · José Vitancio Umeres | USD 320 | 21,5 × 17,8 × 9,4 cm; 0,650 kg. La ficha describe doble cuerpo y sonido al mover el agua. Confirmar stock, precio presencial, embalaje y recogida en Ollantaytambo. [Fuente](https://alqagaleria.com/Botella-Silbadora-Cernicalo-0234-25) |
 
 ## Presupuestos y comparación
 
@@ -441,9 +514,9 @@ Fuentes: [Guía PROMPERÚ · referencia de 2018](https://repositorio.promperu.go
 
 Intervalo orientativo propuesto a partir de los modelos económicos publicados en Lima. No es una oferta de Pacha o Sabino, una media de Perú ni una garantía de calidad. Si un taller pide más, comparar afinación, comodidad, fabricante, madera y estuche antes de juzgar el precio.
 
-### Vasijas: referencia web USD 149–219, precio local por pedir
+### Vasijas: referencias web USD 149–320, precio local por pedir
 
-Es el intervalo observado en Old Peru Replicas. No hay una base fiable para inventar una horquilla de mercadillo ni prometer que allí costará menos. Pedir dos presupuestos reales (Old Peru y Cerámicas Andina) y comparar la misma pieza con embalaje y documentación incluidos.
+Old Peru publica modelos entre USD 149 y 219; ALQA publica una pieza firmada por José Vitancio Umeres por USD 320. Son piezas y vendedores distintos, no una horquilla normal de mercado. No hay base fiable para inventar un precio de mercadillo. Comparar mecanismo, tamaño, autoría, embalaje y documentación.
 
 ### Telas y souvenirs: no existe un precio normal único verificable
 

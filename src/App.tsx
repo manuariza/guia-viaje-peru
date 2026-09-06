@@ -41,8 +41,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-09-06.4";
-const dataUpdatedLabel = "6 septiembre 2026 · mercados, charangos y vasijas silbadoras";
+const dataVersion = "2026-09-06.5";
+const dataUpdatedLabel = "6 septiembre 2026 · revisión ampliada de vasijas silbadoras";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;

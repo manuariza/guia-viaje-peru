@@ -143,14 +143,22 @@ export const criticalTasks: CriticalTask[] = [
   },
   {
     id: "sacred-valley-transport",
-    title: "Cerrar el transporte privado del Valle Sagrado",
-    due: "Con varias semanas de margen",
-    status: "pendiente",
+    title: "Taxidatum · siete servicios confirmados",
+    due: "11–19 septiembre · efectivo pendiente",
+    status: "confirmado",
     risk: "high",
-    priority: "prioritario",
+    priority: "secundario",
     details: [
-      "Solicitar un paquete para aeropuerto de Cusco–Urubamba, excursiones a Pisac, Chinchero–Moray–Maras y Ollantaytambo, traslado a la estación y regreso Ollantaytambo–Cusco. Para el tren del día 15, fijar la recogida en Tierra Viva a las 08:45.",
-      "Referencia revisada: mínimo USD332/S1.115 por seis servicios. Día 12: conductor 09:00-17:20 y taxi tras la misa. Día 13: ruta 09:00-17:00 con Chinchero, Moray, UNU y Maras; confirmar todas las esperas por USD90/S300. Día 14: pedir 8 horas si se mantiene Pinkuylluna. Confirmar cancelación y retrasos del tren.",
+      "Confirmados el 3 de septiembre: S/1.159 por vehículo para dos, pendientes de pago en efectivo. Alternativa 342 USD; no sumar ambas monedas.",
+      "11 sep: Aeropuerto Cusco → Tierra Viva Valle Sagrado; 15:40 aprox., tras llegada LA2321 14:55; S/120 o 35 USD.",
+      "12 sep: Pisac + Inkariy + misa en Urubamba + regreso a Tierra Viva; 09:00; S/340 o 100 USD.",
+      "13 sep: Chinchero → Moray → Salineras de Maras; 09:00; S/220 o 65 USD.",
+      "14 sep: Tierra Viva → Ollantaytambo → Tierra Viva; 09:30; S/250 o 75 USD.",
+      "15 sep: Tierra Viva → estación de Ollantaytambo; 09:15; S/75 o 22 USD.",
+      "16 sep: Estación de Ollantaytambo → Casa Cristóbal, Cusco; 16:15–16:30 aprox., tras recoger las maletas; S/120 o 35 USD.",
+      "19 sep: Casa Cristóbal → aeropuerto de Cusco; 05:55; S/34 o 10 USD.",
+      "El correo del 31 de agosto confirma el domingo 13 a las 09:00 por S/220 o 65 USD y repite una duración de seis horas. El plan de visitas de la web llega hasta las 17:00. La ampliación antigua a S/300 o 90 USD no aparece aceptada en la confirmación final: no se contabiliza como confirmada.",
+      "El correo no precisa si se paga cada servicio o todo al inicio. Reservar el importe completo antes del primer traslado y confirmar con el conductor cuándo cobra.",
     ],
     links: [
       { label: "Taxidatum", url: "https://www.taxidatum.com/es/" },
@@ -165,7 +173,7 @@ export const criticalTasks: CriticalTask[] = [
     risk: "medium",
     priority: "secundario",
     details: [
-      "Conviene reservar una mesa para dos a las 13:20.",
+      "Antes de reservar UNU a las 13:20, aclarar la ampliación de Taxidatum: la confirmación cubre seis horas (09:00–15:00) por S/220, no el plan largo hasta las 17:00.",
       "La parada se integra entre Moray y Maras: comida hasta las 14:40 y salida inmediata hacia las salineras.",
     ],
     links: [{ label: "UNU · ubicación", url: "https://www.google.com/maps/search/?api=1&query=UNU+Landscape+%26+Gastronomy+Tiobamba+Peru" }],
@@ -204,7 +212,7 @@ export const criticalTasks: CriticalTask[] = [
     risk: "low",
     priority: "secundario",
     details: [
-      "Plan principal: San Pedro Apóstol de Urubamba, sábado a las 18:00, después de Pisac e Inkariy. El conductor termina a las 17:20 en la plaza; después de la celebración se regresa en taxi de 19:00 a 19:25.",
+      "Plan principal: San Pedro Apóstol de Urubamba, sábado a las 18:00, después de Pisac e Inkariy. Taxidatum espera hasta aproximadamente las 19:00 y os lleva de regreso al alojamiento. Todo incluido en los S/340 del día 12, sin otro taxi.",
       "Reconfirmar el horario por posibles celebraciones especiales. Si cambia, comprobar San Pedro Apóstol de Calca a las 19:00; si hay retraso, acortar Inkariy antes que arriesgar la llegada.",
     ],
     links: [

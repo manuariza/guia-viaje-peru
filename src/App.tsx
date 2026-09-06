@@ -12,6 +12,7 @@ import { TravelGuide } from "./components/TravelGuide";
 import { CulturalGuide } from "./components/CulturalGuide";
 import { TripMap } from "./components/TripMap";
 import { CashGuide } from "./components/CashGuide";
+import { TaxidatumCash } from "./components/TaxidatumCash";
 import type { CriticalTask, MapFilterState } from "./types";
 import { itinerary } from "./data/itinerary";
 import { places } from "./data/places";
@@ -38,8 +39,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-09-06.1";
-const dataUpdatedLabel = "6 septiembre 2026 · cajeros, mapas y efectivo en soles";
+const dataVersion = "2026-09-06.2";
+const dataUpdatedLabel = "6 septiembre 2026 · Taxidatum confirmado y efectivo actualizado";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;
@@ -217,6 +218,7 @@ export default function App() {
         </Tabs.Content>
 
         <Tabs.Content value="trayectos" className="space-y-6 outline-none">
+          <TaxidatumCash />
           <SectionHeader title="Trayectos" description="Tabla y tarjetas de todos los movimientos del viaje." />
           <div className="hidden overflow-hidden rounded-lg border border-stone-200 bg-white lg:block">
             <div className="hidden grid-cols-[110px_1fr_1fr_190px_120px] gap-4 border-b border-stone-200 bg-stone-50 px-4 py-3 text-xs font-semibold uppercase text-stone-500 lg:grid">

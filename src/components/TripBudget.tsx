@@ -11,6 +11,7 @@ import {
 import { dailyBudgetLines, pendingBudgetLines, planningRatesToEur } from "../data/budget";
 import type { BudgetCategory, BudgetCurrency, DailyBudgetLine, DayPlan } from "../types";
 import { StatusBadge } from "./Badges";
+import { TaxidatumCash } from "./TaxidatumCash";
 
 const categoryLabels: Record<BudgetCategory, string> = {
   vuelo: "Vuelo",
@@ -172,6 +173,7 @@ export function TripBudget({ days }: { days: DayPlan[] }) {
 
   return (
     <div className="space-y-6">
+      <TaxidatumCash />
       <section className="grid gap-4 xl:grid-cols-[1.05fr_1.95fr]">
         <div className="rounded-lg border border-stone-900 bg-stone-950 p-5 text-white sm:p-6">
           <div className="flex items-center justify-between gap-3">

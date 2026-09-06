@@ -307,7 +307,7 @@ Las escenografías son interpretaciones modernas. Ayudan a imaginar ceremonias y
 
 ## Misa anticipada en San Pedro Apóstol de Urubamba
 
-Después de Inkariy, la ruta continúa hasta la **Parroquia San Pedro Apóstol de Urubamba**, situada en la Plaza de Armas. El plan recomendado es llegar a las 17:20 para asistir a la misa ordinaria publicada de las **18:00**. El conductor termina el servicio allí; después de la misa, el regreso será en taxi de 19:00 a 19:25 hasta Tierra Viva, seguido de cena en **SUNO Restaurant** de 19:30 a 20:45.
+Después de Inkariy, la ruta continúa hasta la **Parroquia San Pedro Apóstol de Urubamba**, situada en la Plaza de Armas. El plan es llegar a las 17:20 para asistir a la misa ordinaria publicada de las **18:00**. Taxidatum confirmó el 3 de septiembre que el conductor esperará hasta aproximadamente las 19:00 y os llevará de regreso a Tierra Viva, con llegada estimada 19:25. El servicio completo cuesta S/340 en efectivo, seguido de cena en **SUNO Restaurant** de 19:30 a 20:45.
 
 El templo fue construido en época colonial y forma parte del patrimonio histórico de Urubamba. Su ubicación en la plaza principal permite observar cómo las parroquias y plazas coloniales reorganizaron los centros urbanos andinos.
 
@@ -321,9 +321,9 @@ El horario parroquial puede variar por fiestas, bodas u otras celebraciones. Deb
 
 ## Plan operativo actualizado
 
-El día queda organizado de **09:00 a 17:00**: Chinchero de 10:00 a 11:15, Moray de 12:00 a 13:00, comida en **UNU Landscape & Gastronomy**, en Tiobamba, de 13:20 a 14:40, y Salineras de Maras de 15:00 a 16:15. El regreso a Tierra Viva está previsto a las 17:00, seguido de dos horas de descanso. A las 19:30, **SUNO Restaurant** queda únicamente como cena ligera opcional si hay hambre.
+El plan largo previsto, **pendiente de aclarar con Taxidatum**, es de **09:00 a 17:00**: Chinchero de 10:00 a 11:15, Moray de 12:00 a 13:00, comida en **UNU Landscape & Gastronomy**, en Tiobamba, de 13:20 a 14:40, y Salineras de Maras de 15:00 a 16:15. El regreso a Tierra Viva está previsto a las 17:00, seguido de dos horas de descanso. A las 19:30, **SUNO Restaurant** queda únicamente como cena ligera opcional si hay hambre.
 
-Conviene reservar UNU para dos personas. La referencia de transporte largo, USD90/S300, encaja con las ocho horas, pero debe confirmarse que incluye las esperas y la parada en UNU. Si se acumula retraso, es preferible abreviar el centro textil de Chinchero y conservar la salida de UNU a las 14:40.
+Taxidatum está confirmado desde el 3 de septiembre. Sin embargo, el último desglose confirma solo seis horas (09:00–15:00) por S/220 o 65 USD. La ampliación anterior de S/300 o 90 USD no aparece aceptada en la confirmación final. Ajustar el plan a seis horas o aclarar la ampliación antes de mantener la comida en UNU y el regreso de las 17:00. No dar por incluida la jornada larga.
 
 ## Chinchero
 
@@ -443,7 +443,7 @@ No existe evidencia arqueológica aceptada que demuestre esas identificaciones o
 
 ## Plan operativo actualizado
 
-La jornada queda fijada de 09:00 a 17:00. Después del complejo arqueológico y el pueblo antiguo, se baja caminando a la estación para comer en **El Albergue Restaurant** de 12:30 a 13:45. Pinkuylluna se mantiene de 14:00 a 15:30 solo si hay energía y buen tiempo; después queda una hora para café, mercado o paseo antes del regreso. El coche de referencia cubre seis horas, por lo que hay que pedir precio por dos horas adicionales si se conserva el plan completo.
+Taxidatum ha confirmado recogida a las 09:30 y el itinerario con vuelta entre las 16:00 y las 17:00 por S/250 o 75 USD, pendientes de pago en efectivo. Después del complejo arqueológico y el pueblo antiguo, se baja caminando a la estación para comer en **El Albergue Restaurant** de 12:30 a 13:45. Pinkuylluna se mantiene de 14:00 a 15:30 solo si hay energía y buen tiempo; después queda una hora para café, mercado o paseo antes del regreso. La confirmación del 31 de agosto responde al itinerario solicitado con esa ventana de regreso. Pinkuylluna sigue siendo opcional; no añadir automáticamente el suplemento de una cotización anterior.
 
 ---
 
@@ -1015,7 +1015,7 @@ La atribución es imposible tal como se cuenta: el jesuita Juan de Velasco naci�
 ## Nota práctica para este día
 
 - **Vuelo SKY:** 08:45-09:45. La tarifa Max Flex incluye por persona objeto personal de 10 kg, equipaje de cabina de 10 kg y una maleta facturada de 23 kg. No hace falta comprar equipaje adicional.
-- **Salida de Cusco:** pedir Uber a las 05:45 y salir de Casa Cristobal como máximo a las 05:55. Objetivo: llegar al aeropuerto aproximadamente entre las 06:20 y las 06:35. Pedir desayuno para llevar y dejar un taxi como respaldo.
+- **Salida de Cusco:** Taxidatum confirmado el 3 de septiembre: recogida a las 05:55, S/34 o 10 USD por vehículo. Pago pendiente en efectivo. Estar preparados a las 05:45; Uber o taxi del hotel solo como respaldo ante una incidencia. Objetivo de llegada al aeropuerto: 06:20–06:35.
 - **Inkaterra:** la estancia del 19 al 21 incluye traslados terrestres y fluviales aeropuerto-lodge-aeropuerto, pensión completa, agua purificada, guía grupal en español e inglés, excursiones, Lago Sandoval y Canopy Walkway.
 - **Equipaje fluvial:** máximo 10 kg por persona. Las dos maletas grandes se guardan en el almacén de Inkaterra en Puerto Maldonado.
 - **Conectividad:** Hacienda Concepción no tiene Internet y la cobertura telefónica es limitada; conviene guardar billetes, programa y contactos sin conexión.

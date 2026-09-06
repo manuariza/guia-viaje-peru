@@ -1,4 +1,5 @@
 import type { BudgetItem, BudgetCurrency, DailyBudgetLine, PendingBudgetLine } from "../types";
+import taxidatum from "./taxidatum.json";
 
 export const planningRatesToEur: Record<BudgetCurrency, number> = {
   EUR: 1,
@@ -8,6 +9,11 @@ export const planningRatesToEur: Record<BudgetCurrency, number> = {
 
 
 export const dailyBudgetLines: DailyBudgetLine[] = [
+  ...taxidatum.services.map((service): DailyBudgetLine => ({
+    id: `taxidatum-${service.id}`, dayId: service.dayId, category: "traslado",
+    title: `Taxidatum · ${service.title}`, amount: service.pen, currency: "PEN", status: "confirmado",
+    note: `Pago pendiente en efectivo, por vehículo para dos. Recogida: ${service.pickup}. Alternativa: ${service.usd} USD, no sumada al presupuesto. ${service.notes}`,
+  })),
   {
     id: "intl-flights",
     dayId: "2026-09-08",
@@ -339,14 +345,6 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
     note: "Plan recomendado: una sola eSIM ilimitada en el móvil principal y conexión compartida con el segundo. Comprobar compatibilidad y punto de acceso; comprar y activar el plan el día anterior a la salida con Wi‑Fi estable.",
   },
   {
-    id: "ollanta-cusco-driver",
-    date: "16 sep",
-    title: "Conductor privado Ollantaytambo - Cusco",
-    amount: 35,
-    currency: "USD",
-    note: "Mejor referencia obtenida: Taxidatum, 35 USD o S/120 por vehículo en sedán Toyota/Kia o similar; otras ofertas alcanzan 65 USD. Reconfirmar punto de encuentro y espera por retraso del tren.",
-  },
-  {
     id: "consettur",
     date: "16 sep",
     title: "Bus Camino a la Maravilla ida y vuelta · 2 adultos",
@@ -357,8 +355,8 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
   {
     id: "local-transfers",
     date: "8-19 sep",
-    title: "Taxis y traslados locales",
-    note: "Referencia revisada: mínimo 332 USD o S/1.115 para seis servicios. El día 13 usa la ruta larga de USD90/S300, de 09:00 a 17:00, con Chinchero, Moray, comida en UNU y Maras; hay que confirmar todas las esperas. Los días 12 y 14 requieren horarios ampliados.",
+    title: "Otros taxis y traslados locales",
+    note: "Taxidatum ya está confirmado y contabilizado por día: siete servicios, S/1.159 en efectivo. Esta partida solo cubre otros taxis (Lima, Arequipa, restaurantes y desplazamientos no incluidos). No volver a sumar Taxidatum aquí.",
   },
   {
     id: "variable-spend",
@@ -386,8 +384,8 @@ export const budgetItems: BudgetItem[] = [
   },
   {
     category: "Traslados privados",
-    range: "Variable",
-    notes: "Quedan por cerrar solo los taxis/traslados que queráis llevar preacordados.",
+    range: "Taxidatum confirmado · S/1.159",
+    notes: "Siete servicios por vehículo para dos, pendientes de pagar en efectivo. Contabilizados una sola vez en el coste de cada día. Aclarar la duración del día 13.",
   },
   {
     category: "Comidas e imprevistos",

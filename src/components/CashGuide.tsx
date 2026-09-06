@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import { Banknote, ExternalLink, MapPin, Navigation } from "lucide-react";
 import cash from "../data/cash.json";
+import { TaxidatumCash } from "./TaxidatumCash";
 import { normalize } from "../utils/format";
 
 const cities = [...new Set(cash.atms.map((atm) => atm.city))];
@@ -28,6 +29,7 @@ export function CashGuide({ query = "" }: { query?: string }) {
         <h2 id="cash-title" className="mt-1 scroll-mt-64 text-2xl font-semibold sm:scroll-mt-36">Cajeros en la ruta</h2>
         <p className="mt-2 max-w-3xl text-sm leading-6 text-stone-600">Primero MultiRed con Revolut o Wise. Aquí tienes {cash.atms.length} opciones, direcciones y rutas. Las ubicaciones proceden de directorios; el cajero confirma el recargo, el límite y la disponibilidad.</p>
       </div>
+      <TaxidatumCash />
       <div className="rounded-lg border border-amber-200 bg-amber-50 p-4 text-sm leading-6 text-amber-950">
         <strong>Elegir PEN y rechazar la conversión a euros.</strong> El S/0 de MultiRed es una experiencia reportada, no una tarifa garantizada. La comisión del cajero, la retirada de tu tarjeta y la conversión son tres costes distintos.
       </div>

@@ -70,6 +70,7 @@ function buildDayDetail(day: DayPlan): DetailPayload {
         { label: `Google Maps: ${restaurant.name}`, url: restaurant.mapUrl },
         ...(restaurant.website ? [{ label: `Web: ${restaurant.name}`, url: restaurant.website }] : []),
       ]),
+      ...(day.shoppingLinks ?? []),
     ],
     sections: [
       { title: "Horario", items: day.blocks },

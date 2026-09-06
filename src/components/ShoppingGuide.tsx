@@ -68,7 +68,7 @@ export function ShoppingGuide({ query = "" }: { query?: string }) {
 
       <details className="group rounded-lg border border-stone-200 bg-white p-4">
         <summary className="flex min-h-7 cursor-pointer list-none items-center justify-between gap-3 font-semibold text-stone-900">Cuándo encaja en la ruta <ChevronDown className="size-5 shrink-0 group-open:rotate-180" /></summary>
-        <div className="mt-3 grid gap-3 md:grid-cols-2">{shopping.route.map((stop) => <div key={stop.city} className="border-l-2 border-stone-200 pl-3"><h3 className="text-sm font-semibold">{stop.city} · {stop.date}</h3><p className="mt-1 text-sm leading-6 text-stone-600">{stop.tip}</p></div>)}</div>
+        <div className="mt-3 grid gap-3 md:grid-cols-2">{shopping.route.map((stop) => <div key={stop.city} className="border-l-2 border-stone-200 pl-3"><h3 className="text-sm font-semibold">{stop.city} · {stop.date}</h3><p className="mt-1 text-sm leading-6 text-stone-600">{stop.tip}</p>{stop.links?.length ? <div className="mt-3 flex flex-wrap gap-2">{stop.links.map((link) => <a key={link.url} href={link.url} target="_blank" rel="noreferrer" className={linkStyle}>{link.label}<ExternalLink className="size-3.5" /></a>)}</div> : null}</div>)}</div>
       </details>
 
       <div className="rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-sm leading-6 text-amber-950">

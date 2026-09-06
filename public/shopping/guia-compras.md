@@ -26,14 +26,14 @@ Se revisaron todas las paradas de la ruta buscando el producto exacto: una vasij
 ## Cuándo comprar en la ruta
 
 - **Lima · 8–9 sep:** Petit Thouars reúne dos galerías para comparar. Luna, Home Music y Wari Runa requieren un desvío; confirmar antes y valorar cargar la compra desde el inicio.
-- **Arequipa · 9–11 sep:** Fundo El Fierro encaja el 10 cerca de Santa Catalina. San Camilo ya está previsto el 11 por la mañana. Jihuallanca solo tras confirmar que sigue atendiendo.
-- **Pisac · 12 sep · sábado:** Mercado previsto de 13:00 a 13:45. Taki Runa dirige el taller-escuela Wakamuchaq y fabrica instrumentos cerámicos, pero no hay dirección pública ni venta presencial confirmada: solo intentarlo con cita previa. Aprovechar también para preguntar en Pacha por charangos.
+- **Arequipa · 10 sep · opcional:** Fundo El Fierro queda como decisión del momento a las 17:30 tras el Museo Santuarios Andinos: visita breve de 17:30 a 18:00 o regreso directo a la piscina. Está en el centro histórico; elegirlo reduce unos 30 minutos de piscina. [Museo Santuarios Andinos](https://www.google.com/maps/search/?api=1&query=Museo+Santuarios+Andinos+Arequipa) · [Fundo El Fierro](https://www.google.com/maps/search/?api=1&query=Centro+Artesanal+Fundo+El+Fierro+Arequipa) · [Ruta andando](https://www.google.com/maps/dir/?api=1&origin=Museo+Santuarios+Andinos+Arequipa&destination=Centro+Artesanal+Fundo+El+Fierro+Arequipa&travelmode=walking).
+- **Pisac · 12 sep · sábado:** Mercado Artesanal 13:00–13:45, Pacha Instrumentos 13:45–14:05 y comida 14:05–14:50. Es el primer momento práctico para probar un charango. Taki Runa Wakamuchaq fabrica instrumentos cerámicos, pero solo debe intentarse con cita y dirección acordadas. [Mercado Artesanal](https://www.google.com/maps/search/?api=1&query=Mercado+Artesanal+Intihuatana+Pisac+Peru) · [Pacha Instrumentos](https://www.google.com/maps/search/?api=1&query=Pacha+Instrumentos+Calle+Callao+Pisac+Peru) · [Ruta andando](https://www.google.com/maps/dir/?api=1&origin=Mercado+Artesanal+Intihuatana+Pisac+Peru&destination=Pacha+Instrumentos+Calle+Callao+Pisac+Peru&travelmode=walking).
 - **Urubamba · 11–14 sep:** Mercado Modelo para productos cotidianos, mejor por la mañana. No añadirlo automáticamente al final del día 12: esa tarde ya hay una misa prevista.
-- **Chinchero · 13 sep · domingo:** Priorizar la feria tradicional. El CTTC no publica horario dominical para esta sede: consultar antes. El recorrido contratado dura seis horas; cualquier ampliación sigue por aclarar.
+- **Chinchero · 13 sep · domingo:** Feria dominical integrada de 10:00 a 11:15 con la iglesia y el centro histórico: comparten prácticamente el mismo entorno. El CTTC de Chinchero no publica horario dominical; si no confirma, queda cubierto por CTTC Cusco el día 17. [Iglesia y centro histórico](https://www.google.com/maps/search/?api=1&query=Iglesia+de+Nuestra+Senora+de+Monserrat+Chinchero) · [Feria dominical](https://www.google.com/maps/search/?api=1&query=Mercado+dominical+Chinchero+Cusco+Peru) · [Ruta andando](https://www.google.com/maps/dir/?api=1&origin=Iglesia+de+Chinchero+Cusco&destination=Mercado+dominical+Chinchero+Cusco&travelmode=walking).
 - **Maras / Moray · 13 sep:** Los puestos de las salineras sirven para sal y recuerdos. No se ha identificado un mercado tradicional en Moray ni una tienda específica de vasijas silbadoras.
-- **Ollantaytambo · 14–15 sep:** ALQA es la parada más concreta para vasijas: su galería publica una botella silbadora hidráulica. El lunes 14 el recinto abre desde las 12:00, pero la sala permanente se anuncia de martes a domingo; confirmar por correo la atención de galería y el stock. Mercado y Awamaki completan la visita.
-- **Aguas Calientes · 15–16 sep:** Mercado al lado de la estación: cómodo para una compra pequeña. Para una pieza artesanal especial, comparar antes en el Valle o después en Cusco.
-- **Cusco · 16–18 sep:** Old Peru sigue siendo la compra más concreta. El 17, durante la visita ya prevista al Museo Inka, preguntar por José Vitancio Umeres y sus reproducciones hidráulicas; el museo es un punto de contacto y exposición, no una tienda con stock confirmado. Los trámites de réplicas no se resuelven necesariamente en esos dos días.
+- **Ollantaytambo · 14 sep:** Mercado Artesanal opcional de 11:30 a 12:05 al salir del recinto. Por la tarde, elegir Pinkuylluna o ALQA 14:00–14:45 y Awamaki 14:45–15:15. Confirmar la galería y el stock de ALQA; ir a Awamaki solo si facilita el punto actual. [Recinto arqueológico](https://www.google.com/maps/search/?api=1&query=Sitio+Arqueologico+Ollantaytambo) · [Mercado Artesanal](https://www.google.com/maps/search/?api=1&query=Mercado+Artesanal+Ollantaytambo+Peru) · [Ruta recinto → mercado](https://www.google.com/maps/dir/?api=1&origin=Sitio+Arqueologico+Ollantaytambo&destination=Mercado+Artesanal+Ollantaytambo+Peru&travelmode=walking) · [ALQA](https://www.google.com/maps/search/?api=1&query=ALQA+Museo+Calle+Sipas+Ollantaytambo+Peru) · [Awamaki](https://www.google.com/maps/search/?api=1&query=Awamaki+Ollantaytambo+Peru) · [Ruta ALQA → Awamaki](https://www.google.com/maps/dir/?api=1&origin=ALQA+Museo+Calle+Sipas+Ollantaytambo&destination=Awamaki+Ollantaytambo&travelmode=walking).
+- **Aguas Calientes · 15 sep:** Comida 13:30–14:15 y Mercado Artesanal 14:15–14:45, junto a la estación. Es una visita breve antes del intento opcional de Circuito 2; reservarla para recuerdos pequeños. [Taypikala](https://www.google.com/maps/search/?api=1&query=Taypikala+Boutique+Machupicchu) · [Mercado Artesanal](https://www.google.com/maps/search/?api=1&query=Mercado+Artesanal+Aguas+Calientes+Machu+Picchu) · [Ruta andando](https://www.google.com/maps/dir/?api=1&origin=Taypikala+Boutique+Machupicchu&destination=Mercado+Artesanal+Aguas+Calientes+Machu+Picchu&travelmode=walking).
+- **Cusco · 17 sep:** CTTC 08:55–09:25 y Qorikancha 09:30–10:35. Old Peru queda opcional 12:35–13:00 tras la Piedra de los 12 Ángulos, únicamente con tienda, stock y recogida confirmados. [CTTC Cusco](https://www.google.com/maps/search/?api=1&query=Centro+de+Textiles+Tradicionales+del+Cusco+Avenida+El+Sol+603) · [Qorikancha](https://www.google.com/maps/search/?api=1&query=Qorikancha+Cusco) · [Ruta CTTC → Qorikancha](https://www.google.com/maps/dir/?api=1&origin=Centro+de+Textiles+Tradicionales+del+Cusco+Avenida+El+Sol+603&destination=Qorikancha+Cusco&travelmode=walking) · [Piedra de los 12 Ángulos](https://www.google.com/maps/search/?api=1&query=Piedra+de+los+12+Angulos+Cusco) · [Old Peru Replicas](https://www.google.com/maps/search/?api=1&query=Old+Peru+Replicas+Ccahuana+Art+Triunfo+392+Cusco) · [Ruta Piedra → Old Peru](https://www.google.com/maps/dir/?api=1&origin=Piedra+de+los+12+Angulos+Cusco&destination=Triunfo+392+Cusco&travelmode=walking).
 - **Puerto Maldonado · 19–21 sep:** La estancia está centrada en el lodge y los traslados. Consultar si ofrecen artesanía comunitaria; el centro urbano solo si encaja, sin comprometer vuelos ni actividades.
 
 ## Directorio de mercados, tiendas y talleres
@@ -123,7 +123,7 @@ Fuentes: [Producto · S/850](https://wariruna.ruraqmaki.pe/producto/silbador-de-
 ### Centro Artesanal Fundo El Fierro · Arequipa
 
 - **Tipo:** Centro artesanal.
-- **Cuándo:** 10 sep, en el centro cerca de Santa Catalina.
+- **Cuándo:** 10 sep, opcional 17:30–18:00 tras el Museo Santuarios Andinos; decidir frente a la piscina.
 - **Dirección:** San Francisco 407–413 / acceso por Puente Grau 213. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Centro%20Artesanal%20Fundo%20El%20Fierro%20Arequipa).
 - **Productos:** Textiles, cuero, cerámica, sillar tallado, joyería y decoración.
 - **Precio:** A consultar. No se ha verificado una tarifa de vasijas silbadoras ni una ventaja de precio concreta.
@@ -199,7 +199,7 @@ Fuentes: [Wakamuchaq en Pisac y trayectoria](https://www.holisticelementalretrea
 ### Pacha Instrumentos · Pisac
 
 - **Tipo:** Tienda de instrumentos.
-- **Cuándo:** 12 sep, aprovechando la parada en el mercado.
+- **Cuándo:** 12 sep, 13:45–14:05, inmediatamente después del mercado.
 - **Dirección:** Calle Callao · código de ubicación H4HX+3C7. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Pacha%20Instrumentos%20Callao%20Pisac%20Peru).
 - **Productos:** Instrumentos andinos; reseñas que mencionan charangos.
 - **Precio:** A consultar. S/300–500 es un presupuesto de búsqueda para iniciación, no una tarifa de Pacha.
@@ -231,7 +231,7 @@ Fuentes: [Municipalidad · entorno del mercado](https://www.gob.pe/institucion/m
 ### Feria dominical de Chinchero · Chinchero
 
 - **Tipo:** Feria tradicional.
-- **Cuándo:** 13 sep, domingo, durante la visita.
+- **Cuándo:** 13 sep, domingo, integrada 10:00–11:15 con la iglesia y el centro histórico.
 - **Dirección:** Centro de Chinchero, entorno de la plaza histórica y la iglesia. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Mercado%20dominical%20Chinchero%20Cusco%20Peru).
 - **Productos:** Mantas, fajas, chullos, tejidos y productos de intercambio local.
 - **Precio:** A consultar; fibra, densidad del tejido y trabajo manual cambian mucho el precio.
@@ -276,7 +276,7 @@ Fuentes: [Marasal · turismo y tiendas](https://saldemaras.pe/turismo/).
 ### Mercado Artesanal de Ollantaytambo · Ollantaytambo
 
 - **Tipo:** Mercado artesanal turístico.
-- **Cuándo:** 14 sep, al salir de las ruinas.
+- **Cuándo:** 14 sep, opcional 11:30–12:05 al salir del recinto.
 - **Dirección:** Frente al acceso al parque arqueológico, zona Manyaraki / Araccama. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Mercado%20Artesanal%20Ollantaytambo%20Peru).
 - **Productos:** Textiles, cerámica, accesorios y souvenirs andinos.
 - **Precio:** A consultar; sin tarifa verificable para vasijas silbadoras.
@@ -291,7 +291,7 @@ Fuentes: [Ficha y ubicación del mercado](https://www.tripadvisor.es/Attraction_
 ### ALQA Museo y Galería de Expresiones Andinas · Ollantaytambo
 
 - **Tipo:** Museo y galería de arte tradicional andino.
-- **Cuándo:** 14 sep desde las 12:00; confirmar atención de galería y stock por correo.
+- **Cuándo:** 14 sep, opcional 14:00–14:45 en vez de Pinkuylluna; confirmar galería y stock.
 - **Dirección:** Calle Sipas s/n, Ollantaytambo 08676. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=ALQA%20Museo%20Calle%20Sipas%20Ollantaytambo%20Peru).
 - **Productos:** Botella silbadora «Cernícalo» de doble cuerpo, obra contemporánea de José Vitancio Umeres, y otras expresiones de arte andino.
 - **Precio:** USD 320 por la botella silbadora «Cernícalo» publicada; 21,5 × 17,8 × 9,4 cm y 0,650 kg. Precio local, stock y embalaje por confirmar.
@@ -309,7 +309,7 @@ Fuentes: [Ficha de la botella · USD 320](https://alqagaleria.com/Botella-Silbad
 ### Awamaki · Ollantaytambo
 
 - **Tipo:** Tienda de una organización textil.
-- **Cuándo:** 14 sep, si encaja en el paseo.
+- **Cuándo:** 14 sep, opcional 14:45–15:15 solo con la dirección actual confirmada.
 - **Dirección:** Calle Principal, Ollantaytambo; confirmar punto actual en la página de contacto. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Awamaki%20Ollantaytambo%20Peru).
 - **Productos:** Textiles y accesorios elaborados con cooperativas de mujeres quechuas.
 - **Precio:** Consultar precio por pieza y material; sin tarifa local verificada en la investigación.
@@ -324,7 +324,7 @@ Fuentes: [Awamaki · contacto](https://www.awamaki.org/pages/contact).
 ### Mercado Artesanal de Aguas Calientes · Aguas Calientes
 
 - **Tipo:** Mercado artesanal turístico.
-- **Cuándo:** 15–16 sep, de paso entre la estación y el centro.
+- **Cuándo:** 15 sep, 14:15–14:45 después de comer y antes del Circuito 2 opcional.
 - **Dirección:** Junto a la estación ferroviaria, zona de Las Orquídeas. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Mercado%20Artesanal%20Aguas%20Calientes%20Machu%20Picchu%20Peru).
 - **Productos:** Textiles, cerámica, instrumentos andinos y recuerdos de Machu Picchu.
 - **Precio:** A consultar; no hay precios verificables para una vasija silbadora.
@@ -384,7 +384,7 @@ Fuentes: [MINCETUR · barrio de San Blas](https://consultasenlinea.mincetur.gob.
 ### Centro de Textiles Tradicionales del Cusco · Cusco
 
 - **Tipo:** Tienda, museo y centro textil.
-- **Cuándo:** 17 sep, aprovechando la visita a Qorikancha.
+- **Cuándo:** 17 sep, 08:55–09:25 antes de Qorikancha.
 - **Dirección:** Av. El Sol 603, junto a Qorikancha. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Centro%20de%20Textiles%20Tradicionales%20del%20Cusco%20Avenida%20El%20Sol%20603).
 - **Productos:** Textiles de diez comunidades, con explicación del proceso de tejido.
 - **Precio:** A consultar por pieza, fibra y técnica; sin precio local verificado.
@@ -431,7 +431,7 @@ Fuentes: [Yaparu · accesorios](https://yaparu.com/categoria-producto/accesorios
 ### Old Peru Replicas / Ccahuana Art · Cusco
 
 - **Tipo:** Taller y catálogo de réplicas contemporáneas.
-- **Cuándo:** Contactar antes del viaje; posible recogida el 17–18 sep.
+- **Cuándo:** 17 sep, opcional 12:35–13:00 solo con tienda, stock y recogida confirmados.
 - **Dirección:** Triunfo 392, Arte Inka Shopping Center, tienda 115; confirmar recogida. [Abrir Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Peru%20Replicas%20Ccahuana%20Art%20Triunfo%20392%20Cusco).
 - **Productos:** Vasijas silbadoras de agua, modelos de animales y figuras andinas.
 - **Precio:** USD 149: cóndor, ave, mono, búho y otros modelos; USD 179: guacamayo y perro grande; USD 219: perro peruano.

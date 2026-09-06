@@ -93,6 +93,7 @@ export interface DayPlan {
   foods: string[];
   orderTips: string[];
   shopping: string[];
+  shoppingLinks?: LinkItem[];
   effort: EffortLevel;
   altitude: string;
   planB: string;

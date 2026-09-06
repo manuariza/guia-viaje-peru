@@ -1,6 +1,15 @@
+import cashPlan from "./cashPlan.json";
 import type { CriticalTask } from "../types";
 
 export const criticalTasks: CriticalTask[] = [
+  {
+    id: "withdraw-cash-revolut",
+    title: cashPlan.title,
+    due: "8–10 sep · antes del Valle; reponer 16–18 sep",
+    status: "pendiente", risk: "high", priority: "prioritario",
+    details: [cashPlan.decision, "Pendiente de ejecutar. Objetivo orientativo: S/3.000 para los dos, incluidos S/1.159 de Taxidatum. No es un gasto adicional ni dinero ya retirado.", cashPlan.scope, cashPlan.feeExample, ...cashPlan.phases, ...cashPlan.checks],
+    links: [{label: "Cajeros, mapas y cómo llegar", url: "https://manuariza.github.io/guia-viaje-peru/#cajeros"}, {label: "Revolut · límites y comisiones", url: cashPlan.sources[0]}],
+  },
   {
     id: "lima-restaurants",
     title: "Plan de comidas de Lima · Isolina y La Mar",

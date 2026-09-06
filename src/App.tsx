@@ -39,8 +39,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-09-06.2";
-const dataUpdatedLabel = "6 septiembre 2026 · Taxidatum confirmado y efectivo actualizado";
+const dataVersion = "2026-09-06.3";
+const dataUpdatedLabel = "6 septiembre 2026 · una Revolut y retirada de efectivo pendiente";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;

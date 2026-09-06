@@ -23,6 +23,7 @@ export const itinerary: DayPlan[] = [
     activities: ["Miraflores", "Malecón", "Larcomar", "Barranco", "Isolina", "Museo Larco"],
     foods: ["Comida en Isolina Barranco a las 13:00", "Cocina criolla para compartir", "Chicha morada"],
     orderTips: [
+      "Pendiente de sacar efectivo con una Revolut. 8–9 sep, Lima: primera retirada en MultiRed Metro Shell, Calle Shell 250, o agencia Miraflores, Av. José Pardo 205–211. Empezar con el efectivo necesario y revisar la comisión y la asignación antes de repetir.",
       "La única OLO eSIM debe quedar comprada y activada en el móvil principal desde el 7 de septiembre: 15 días ilimitados, S/89 total. Al aterrizar, usar OLO para datos, compartir la conexión con el segundo móvil y mantener desactivado el roaming de las SIM españolas. Llevar batería externa",
       "Museo Larco abre los martes; no comprar antes por posibles retrasos o cansancio del vuelo",
       "Reservar Isolina Barranco para las 13:00 y llegar 10-15 minutos antes",
@@ -108,6 +109,7 @@ export const itinerary: DayPlan[] = [
     activities: ["Santa Catalina", "La Nueva Palomino", "Yanahuara", "Iglesia de la Compañía", "Museo Santuarios Andinos", "Piscina", "Zig Zag"],
     foods: ["Comida abundante en La Nueva Palomino", "Rocoto relleno", "Chupe de camarones", "Ocopa", "Cena ligera en Zig Zag"],
     orderTips: [
+      "Pendiente de sacar efectivo con una Revolut. 10 sep, Arequipa: completar el efectivo antes del Valle en MultiRed Boticas Perú, General Morán 107, o agencia Rivero, Calle Rivero 107. Reservar S/1.159 para Taxidatum más entradas y compras del Valle. El proveedor no precisa cuándo cobra; confirmarlo con el conductor.",
       "Comprar en la boletería al llegar dos entradas de Santa Catalina a S/50 por adulto; no hace falta compra anticipada y no aplica la promoción sin DNI peruano",
       "La Nueva Palomino sustituye a Chicha en este itinerario; la comida será de 12:00 a 13:30",
       "Comprar Museo Santuarios Andinos en taquilla y confirmar al llegar el turno que permita la visita de 16:00 a 17:30",
@@ -371,6 +373,7 @@ export const itinerary: DayPlan[] = [
     activities: ["Qorikancha", "Plaza de Armas", "Catedral", "Museo Inka", "Piedra de los 12 ángulos", "San Blas", "La Merced prescindible"],
     foods: ["Comida ligera improvisada", "Street food o bocadillo", "Cena reservada 20:00 en Cicciolina"],
     orderTips: [
+      "Pendiente de sacar efectivo con una Revolut. 16–18 sep, Cusco: contar lo que queda y reponer solo lo necesario antes de la Amazonía. Opciones MultiRed El Sol / Almagro y Serpost, Av. El Sol 800. Con Standard, preferir antes del viernes 18 a las 16:00 de Perú. No depender de cajeros en el lodge.",
       "La mesa de Cicciolina está reservada para dos el jueves 17 de septiembre a las 20:00",
       "Llegar con margen. Para cambios, utilizar el contacto público del restaurante",
     ],

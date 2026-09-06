@@ -1,0 +1,34 @@
+{
+  "title": "Sacar efectivo en cajero con Revolut",
+  "decision": "Decisión cerrada: una sola tarjeta Revolut como principal. Banca March queda como respaldo, guardada aparte. No se prevé usar Wise ni contratar una segunda Revolut para este viaje.",
+  "status": "Pendiente de retirar",
+  "targetPen": 3000,
+  "scope": "Presupuesto orientativo para los dos durante todo el viaje, no una obligación de llevarlo todo encima ni un gasto adicional al presupuesto. Taxidatum ya está incluido: no sumar otros S/1.159. El resto son estimaciones y se reduce si se paga con tarjeta.",
+  "budget": [
+    {"label": "Taxidatum · siete servicios confirmados", "pen": 1159, "basis": "Confirmado; pago pendiente"},
+    {"label": "Entradas y visitas presenciales", "pen": 800, "basis": "Estimación; algunas admiten tarjeta"},
+    {"label": "Mercados, artesanía y recuerdos", "pen": 500, "basis": "Estimación, sin compras grandes"},
+    {"label": "Agua, pequeños consumos y taxis extra", "pen": 250, "basis": "Estimación"},
+    {"label": "Propinas voluntarias", "pen": 100, "basis": "Estimación"},
+    {"label": "Margen de seguridad", "pen": 191, "basis": "Reserva, no gasto comprometido"}
+  ],
+  "feeExample": "Simulación con una Revolut Standard: S/3.000 equivalen a 750 € si 1 € = S/4. Con los 200 € gratuitos disponibles, operaciones agrupadas de hasta S/400 en MultiRed sin recargo y retiradas entre semana, comisión de retirada aproximada 11 €; débito total aproximado 761 €. No es una cotización ni un coste garantizado. Plan real, asignación restante y fecha de reinicio por comprobar; no incluye recargos por superar el límite de cambio ni compras adicionales con tarjeta.",
+  "phases": [
+    "Antes de salir: revisar en Revolut el plan, la asignación gratuita restante, la fecha de reinicio, el PIN, el saldo y los límites de la tarjeta física. Elegir Revolut no significa que la retirada esté realizada.",
+    "8–9 sep, Lima: primera retirada en MultiRed Metro Shell, Calle Shell 250, o agencia Miraflores, Av. José Pardo 205–211. Empezar con el efectivo necesario y revisar la comisión y la asignación antes de repetir.",
+    "10 sep, Arequipa: completar el efectivo antes del Valle en MultiRed Boticas Perú, General Morán 107, o agencia Rivero, Calle Rivero 107. Reservar S/1.159 para Taxidatum más entradas y compras del Valle. El proveedor no precisa cuándo cobra; confirmarlo con el conductor.",
+    "16–18 sep, Cusco: contar lo que queda y reponer solo lo necesario antes de la Amazonía. Opciones MultiRed El Sol / Almagro y Serpost, Av. El Sol 800. Con Standard, preferir antes del viernes 18 a las 16:00 de Perú. No depender de cajeros en el lodge."
+  ],
+  "checks": [
+    "Buscar MultiRed con recargo local S/0; es una referencia de viajeros, no una garantía. La referencia habitual es S/400 por operación; no se garantizan ese límite ni retiradas consecutivas.",
+    "Elegir soles/PEN y rechazar la conversión a euros del cajero. Revisar el recargo antes de aceptar; BanBif es un respaldo con coste local orientativo de S/18–20 por operación.",
+    "Standard: 200 € o cinco retiradas por ciclo sin comisión, lo que ocurra antes; después 2 %, mínimo 1 € por retirada. No confundir el tramo gratuito con un máximo de dinero que se puede sacar.",
+    "Standard: 1 % de cambio en fin de semana y 1 % sobre el cambio que exceda 1.000 € por ciclo. También cuentan las conversiones de compras con tarjeta. El coste exacto depende del uso y del reinicio del plan.",
+    "Anotar importe, fecha y comisión de cada retirada y descontar lo gastado. Marcar este pendiente como completado solo cuando hayáis resuelto las retiradas necesarias del viaje. La reserva de Taxidatum sigue confirmada y su pago sigue pendiente."
+  ],
+  "sources": [
+    "https://help.revolut.com/es-ES/help/inactive-faqs/why-did-the-atm-charge-a-fee-for-my-cash-withdrawal/",
+    "https://www.revolut.com/es-ES/legal/standard-fees/",
+    "https://howtoperu.com/answers/peru-atm-fees-withdrawal-limits-what-travelers-pay-reduce-fees/"
+  ]
+}

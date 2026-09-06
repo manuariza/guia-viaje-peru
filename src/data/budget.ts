@@ -337,6 +337,10 @@ export const dailyBudgetLines: DailyBudgetLine[] = [
 
 export const pendingBudgetLines: PendingBudgetLine[] = [
   {
+    id: "cash-withdrawal-plan", date: "8–18 sep", title: "Sacar efectivo en cajero con una Revolut",
+    note: "Pendiente. Presupuesto de efectivo orientativo S/3.000 para los dos, con S/1.159 de Taxidatum ya incluidos. No sumar esta retirada como un gasto adicional. Comisión ilustrativa ≈11 € con Standard, 1 € = S/4, asignación intacta, MultiRed sin recargo y entre semana; comprobar plan, reinicio y uso real. Banca March solo como respaldo.",
+  },
+  {
     id: "olo-esim-shared",
     date: "7 sep",
     title: "Una eSIM OLO Turista de 15 días",

@@ -2,6 +2,7 @@ import { useMemo, useState } from "react";
 import { Banknote, ExternalLink, MapPin, Navigation } from "lucide-react";
 import cash from "../data/cash.json";
 import { TaxidatumCash } from "./TaxidatumCash";
+import { CashPreparation } from "./CashPreparation";
 import { normalize } from "../utils/format";
 
 const cities = [...new Set(cash.atms.map((atm) => atm.city))];
@@ -27,8 +28,9 @@ export function CashGuide({ query = "" }: { query?: string }) {
       <div>
         <p className="text-xs font-semibold uppercase tracking-wide text-stone-500">Efectivo en soles · revisado {cash.checkedAt}</p>
         <h2 id="cash-title" className="mt-1 scroll-mt-64 text-2xl font-semibold sm:scroll-mt-36">Cajeros en la ruta</h2>
-        <p className="mt-2 max-w-3xl text-sm leading-6 text-stone-600">Primero MultiRed con Revolut o Wise. Aquí tienes {cash.atms.length} opciones, direcciones y rutas. Las ubicaciones proceden de directorios; el cajero confirma el recargo, el límite y la disponibilidad.</p>
+        <p className="mt-2 max-w-3xl text-sm leading-6 text-stone-600">Plan elegido: una Revolut en MultiRed; Banca March solo como respaldo. Aquí tienes {cash.atms.length} opciones, direcciones y rutas. Las ubicaciones proceden de directorios; el cajero confirma el recargo, el límite y la disponibilidad.</p>
       </div>
+      <CashPreparation />
       <TaxidatumCash />
       <div className="rounded-lg border border-amber-200 bg-amber-50 p-4 text-sm leading-6 text-amber-950">
         <strong>Elegir PEN y rechazar la conversión a euros.</strong> El S/0 de MultiRed es una experiencia reportada, no una tarifa garantizada. La comisión del cajero, la retirada de tu tarjeta y la conversión son tres costes distintos.
@@ -85,7 +87,7 @@ export function CashGuide({ query = "" }: { query?: string }) {
       </div> : <p className="rounded-lg border border-stone-200 bg-white p-5">No hay cajeros con estos filtros. Cambia la ciudad, la red o la búsqueda general.</p>}
 
       <section className="rounded-lg border border-stone-200 bg-white p-4 sm:p-5">
-        <h3 className="text-lg font-semibold">Qué tarjeta usar</h3>
+        <h3 className="text-lg font-semibold">Tarjeta elegida y alternativas informativas</h3>
         <div className="mt-4 grid gap-5 md:grid-cols-3">{cash.cards.map((card) => <div key={card.name}>
           <h4 className="font-semibold">{card.name}</h4>
           <p className="mt-2 text-sm leading-6 text-stone-700">{card.withdrawal}</p>

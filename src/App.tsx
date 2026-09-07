@@ -42,7 +42,7 @@ const mapFilters: MapFilterState = {
 };
 
 const dataVersion = "2026-09-07.1";
-const dataUpdatedLabel = "6 septiembre 2026 · revisión ampliada de vasijas silbadoras";
+const dataUpdatedLabel = "7 septiembre 2026 · bus pagado y check-in completado";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;

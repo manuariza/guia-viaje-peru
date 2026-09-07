@@ -9,6 +9,7 @@ export const planningRatesToEur: Record<BudgetCurrency, number> = {
 
 
 export const dailyBudgetLines: DailyBudgetLine[] = [
+{"id": "consettur-paid", "dayId": "2026-09-16", "category": "traslado", "title": "Bus Camino a la Maravilla ida y vuelta · 2 adultos", "amount": 48, "currency": "USD", "status": "pagado", "note": "Compra pagada el 7 de septiembre de 2026. Dos billetes de adulto extranjero para el 16; no volver a comprar.", "evidenceNote": "Correo de pago y dos billetes incorporados a la documentación."},
   ...taxidatum.services.map((service): DailyBudgetLine => ({
     id: `taxidatum-${service.id}`, dayId: service.dayId, category: "traslado",
     title: `Taxidatum · ${service.title}`, amount: service.pen, currency: "PEN", status: "confirmado",
@@ -352,20 +353,11 @@ export const pendingBudgetLines: PendingBudgetLine[] = [
   },
   {
     id: "olo-esim-shared",
-    date: "7 sep",
-    title: "Comprobar la eSIM incluida con el seguro; OLO como respaldo",
-    amount: 89,
-    currency: "PEN",
-    note: "Algunas pólizas Totaltravel incluyen una eSIM internacional gratuita. Comprobar en la app sus datos, duración y compatibilidad; si no basta para los 15 días o no permite compartir Internet, comprar una OLO ilimitada por S/89 como respaldo.",
+    date: "En destino",
+    title: "Revisar ampliación de datos solo si hace falta",
+    note: "Conexión y ajustes preparados. Roamic Perú 1 GB / 7 días confirmado. Un iPhone con datos basta. Revisar precio y vigencia en la app si hace falta ampliar.",
   },
-  {
-    id: "consettur",
-    date: "16 sep",
-    title: "Bus Camino a la Maravilla ida y vuelta · 2 adultos",
-    amount: 48,
-    currency: "USD",
-    note: "Pendiente comprar por Internet en https://comprar.caminoalamaravilla.com/. Seleccionar 16/09/2026, dos adultos extranjeros e ida y vuelta; no se suma al total confirmado hasta disponer del comprobante.",
-  },
+
   {
     id: "local-transfers",
     date: "8-19 sep",
@@ -393,8 +385,8 @@ export const budgetItems: BudgetItem[] = [
   },
   {
     category: "Trenes y Machu Picchu",
-    range: "Confirmados salvo bus a Machu Picchu",
-    notes: "Inca Rail y entrada Machu Picchu Circuito 1 Ruta 1-D están confirmados. Falta comprar online Camino a la Maravilla ida/vuelta por 48 USD para dos.",
+    range: "Trenes, entrada y bus confirmados",
+    notes: "Inca Rail y entrada Machu Picchu Circuito 1 Ruta 1-D están confirmados. Camino a la Maravilla ida/vuelta pagado: 48 USD para dos.",
   },
   {
     category: "Traslados privados",

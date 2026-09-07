@@ -2,13 +2,14 @@ import cashPlan from "./cashPlan.json";
 import type { CriticalTask } from "../types";
 
 export const criticalTasks: CriticalTask[] = [
+  {"id": "jetsmart-checkin-completed", "title": "JetSMART · check-in completado para los dos", "due": "9 septiembre · embarque 18:45", "status": "confirmado", "risk": "low", "priority": "prioritario", "details": ["JA7007 Lima 19:35 → Arequipa 21:04. Check-in completado el 7 de septiembre y tarjetas emitidas.", "Una maleta de bodega de 23 kg y un bolso pequeño por persona; sin maleta de cabina adicional contratada.", "Asientos aleatorios conservados. Llevar las tarjetas guardadas y entregar las maletas en el mostrador."]},
   {
     id: "huaco-export-documents",
     title: "Comparar y documentar la compra de una vasija silbadora",
-    due: "Consultar y resolver documentación antes de pagar; posible recogida 17–18 sep",
+    due: "Opcional en destino · antes de pagar",
     status: "pendiente", risk: "high", priority: "prioritario",
     details: [
-      "Consultar antes del viaje a Old Peru Replicas (USD 149–219 publicados) y ALQA Ollantaytambo (USD 320 publicado). Confirmar modelo de doble cámara, demostración con agua, existencias, punto de recogida y precio presencial.",
+      "Consultar si sigue interesando la compra a Old Peru Replicas (USD 149–219 publicados) y ALQA Ollantaytambo (USD 320 publicado). Confirmar modelo de doble cámara, demostración con agua, existencias, punto de recogida y precio presencial.",
       "Taki Runa en Pisac y José Vitancio Umeres en el Museo Inka son artesanos documentados, pero la visita o venta directa no está confirmada. Cerámicas Andina anuncia un huaco silbador sin dirección ni mecanismo hidráulico verificados. Los mercados son lugares para preguntar, no pruebas de stock ni de menor precio. Ver Compras para la revisión por ciudad.",
       "Acordar antes de pagar factura, embalaje y certificado oficial de bienes no pertenecientes al Patrimonio Cultural, cuando corresponda. Un certificado comercial no equivale al oficial; el plazo publicado en Cusco puede llegar a siete días hábiles. Recoger el 17–18 solo si la documentación ya queda resuelta.",
     ],
@@ -45,16 +46,12 @@ export const criticalTasks: CriticalTask[] = [
   },
   {
     id: "international-checkin",
-    title: "Hacer check-in y guardar las tarjetas de embarque",
+    title: "Check-in internacional en mostrador; JetSMART completado",
     due: "Antes de cada vuelo; priorizar la salida del 8 de septiembre",
-    status: "pendiente",
+    status: "confirmado",
     risk: "medium",
     priority: "prioritario",
-    details: [
-      "Iberia avisó el 5 de septiembre de que el vuelo internacional del 8 de septiembre será operado por LATAM como LA2485. Gestionar el check-in a través de Iberia; aplica la política de equipaje de LATAM.",
-      "No comprar equipaje doméstico adicional: las franquicias de SKY, JetSMART y LATAM ya cubren lo previsto. Guardar cada tarjeta de embarque en ambos móviles cuando abra el check-in.",
-      "JetSMART vigente: JA7007, Lima 19:35 → Arequipa 21:04. Para la conexión final en Lima, las reservas separadas obligan a recoger el equipaje y volver a facturarlo para Madrid.",
-    ],
+    details: ["Decisión confirmada: check-in y facturación internacional en el mostrador, con antelación.", "JetSMART del 9 de septiembre completado. Los check-in de vuelos posteriores se revisarán en destino cuando abran."],
     links: [{ label: "Iberia · gestionar reserva", url: "https://www.iberia.com/es/gestiona-tu-reserva/" }],
   },
   {
@@ -77,16 +74,12 @@ export const criticalTasks: CriticalTask[] = [
   },
   {
     id: "olo-esim",
-    title: "Comprobar la eSIM del seguro; OLO como respaldo",
-    due: "El día anterior a la salida",
-    status: "pendiente",
-    risk: "medium",
+    title: "Conexión móvil y ajustes preparados",
+    due: "Preparado · 7 septiembre",
+    status: "confirmado",
+    risk: "low",
     priority: "prioritario",
-    details: [
-      "La póliza Totaltravel utilizada como referencia incluye una eSIM internacional gratuita. Comprobar primero en la app su cantidad de datos, duración, red en Perú y si permite compartir conexión.",
-      "Si no cubre todo el viaje, el plan de respaldo cuesta S/89 e incluye Internet ilimitado durante 15 días. Una sola OLO eSIM en el móvil principal puede compartir conexión con el segundo teléfono.",
-      "Instalar la opción elegida con Wi‑Fi estable, guardar el QR sin conexión, desactivar el roaming de las SIM españolas y llevar batería externa.",
-    ],
+    details: ["Preparación completada por los viajeros. Roamic Perú 1 GB / 7 días confirmado; un iPhone con datos basta.", "Compartir internet si hace falta y revisar ampliación en destino según consumo."],
     links: [
       { label: "OLO · información oficial", url: "https://www.claro.com.pe/personas/movil/olo/" },
       { label: "OLO · comprar eSIM", url: "https://www.esim.olo.com.pe/" },
@@ -107,14 +100,14 @@ export const criticalTasks: CriticalTask[] = [
   },
   {
     id: "arequipa-late-arrival",
-    title: "Avisar al alojamiento de Arequipa de la llegada nocturna",
-    due: "Antes del vuelo Lima-Arequipa",
-    status: "pendiente",
+    title: "Llegada nocturna a Arequipa prevista",
+    due: "Preparación previa completada",
+    status: "confirmado",
     risk: "low",
     priority: "secundario",
     details: [
       "Con el horario de referencia del vuelo JA7007, 19:35-21:04, y la recogida de equipaje, la llegada al alojamiento se prevé entre las 22:20 y las 22:50.",
-      "Enviar un aviso breve desde la plataforma de reserva para que la recepción tenga anotado el check-in tardío. No hace falta reservar traslado del hotel si se usará Uber.",
+      "Los viajeros declaran completada la preparación previa. Revisar con el hotel si cambia el vuelo; no consta una nueva respuesta del alojamiento.",
     ],
     links: [{ label: "Casa Andina Select Arequipa Plaza", url: "https://www.casa-andina.com/es/destinos/arequipa/hoteles/casa-andina-select-arequipa-plaza" }],
   },
@@ -214,7 +207,7 @@ export const criticalTasks: CriticalTask[] = [
   {
     id: "unu-lunch-day13",
     title: "Reservar UNU para la comida",
-    due: "13 septiembre · 13:20",
+    due: "En destino · antes del 13 septiembre",
     status: "pendiente",
     risk: "medium",
     priority: "secundario",
@@ -227,7 +220,7 @@ export const criticalTasks: CriticalTask[] = [
   {
     id: "el-huacatay-dinner",
     title: "Reservar El Huacatay para la cena",
-    due: "11 septiembre · 19:00",
+    due: "En destino · 11 septiembre",
     status: "pendiente",
     risk: "medium",
     priority: "secundario",
@@ -252,14 +245,14 @@ export const criticalTasks: CriticalTask[] = [
   },
   {
     id: "urubamba-mass",
-    title: "Reconfirmar la misa anticipada de Urubamba",
-    due: "Durante la semana del viaje",
-    status: "pendiente",
+    title: "Misa anticipada de Urubamba confirmada",
+    due: "12 septiembre · 18:00 confirmado",
+    status: "confirmado",
     risk: "low",
     priority: "secundario",
     details: [
       "Plan principal: San Pedro Apóstol de Urubamba, sábado a las 18:00, después de Pisac e Inkariy. Taxidatum espera hasta aproximadamente las 19:00 y os lleva de regreso al alojamiento. Todo incluido en los S/340 del día 12, sin otro taxi.",
-      "Reconfirmar el horario por posibles celebraciones especiales. Si cambia, comprobar San Pedro Apóstol de Calca a las 19:00; si hay retraso, acortar Inkariy antes que arriesgar la llegada.",
+      "Horario confirmado por los viajeros. Si cambia, comprobar San Pedro Apóstol de Calca a las 19:00; si hay retraso, acortar Inkariy antes que arriesgar la llegada.",
     ],
     links: [
       { label: "Parroquia de Urubamba", url: "https://www.facebook.com/Sr.DeTorrechayoc/" },
@@ -268,13 +261,13 @@ export const criticalTasks: CriticalTask[] = [
   },
   {
     id: "machu-bus",
-    title: "Comprar el bus de Machu Picchu ida y vuelta",
-    due: "Antes de comenzar el viaje",
-    status: "pendiente",
-    risk: "high",
+    title: "Bus de Machu Picchu · dos billetes pagados",
+    due: "16 septiembre · cola 06:30",
+    status: "pagado",
+    risk: "low",
     priority: "prioritario",
     details: [
-      "Comprar por Internet antes de comenzar el viaje dos billetes de adulto extranjero, ida y vuelta, para el mismo día de la entrada. La referencia publicada es US$24 por persona.",
+      "Compra completada el 7 septiembre: dos adultos extranjeros, subida y bajada el 16/09/2026, 48 USD total. No repetir la compra.",
       "Guardar los billetes y documentos sin conexión. Para este itinerario: salir del alojamiento 06:20, cola de subida 06:30, cola de bajada máximo 10:45, recoger la mochila 13:00 y estar en la estación 13:30.",
     ],
     links: [{ label: "Camino a la Maravilla · compra oficial", url: "https://comprar.caminoalamaravilla.com/" }],

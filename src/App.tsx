@@ -41,7 +41,7 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-09-06.5";
+const dataVersion = "2026-09-07.1";
 const dataUpdatedLabel = "6 septiembre 2026 · revisión ampliada de vasijas silbadoras";
 
 function includesQuery(values: string[], query: string) {
@@ -122,7 +122,7 @@ export default function App() {
     [query],
   );
 
-  const isClosedTask = (task: CriticalTask) => task.status === "confirmado";
+  const isClosedTask = (task: CriticalTask) => ["confirmado", "pagado"].includes(task.status);
   const keyTasks = criticalTasks.filter((task) => task.priority === "prioritario" && !isClosedTask(task));
   const priorityTasks = criticalTasks.filter(
     (task) => task.priority === "prioritario" && !isClosedTask(task),

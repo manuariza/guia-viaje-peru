@@ -9,7 +9,7 @@ export const planningRatesToEur: Record<BudgetCurrency, number> = {
 
 
 export const dailyBudgetLines: DailyBudgetLine[] = [
-{"id": "consettur-paid", "dayId": "2026-09-16", "category": "traslado", "title": "Bus Camino a la Maravilla ida y vuelta · 2 adultos", "amount": 48, "currency": "USD", "status": "pagado", "note": "Compra pagada el 7 de septiembre de 2026. Dos billetes de adulto extranjero para el 16; no volver a comprar.", "evidenceNote": "Correo de pago y dos billetes incorporados a la documentación."},
+{"id": "consettur-paid", "dayId": "2026-09-16", "category": "traslado", "title": "Bus Camino a la Maravilla ida y vuelta · 2 adultos", "amount": 48, "currency": "USD", "status": "pagado", "note": "Compra pagada el 7 de septiembre de 2026. Dos billetes de adulto extranjero para el 16; no volver a comprar."},
   ...taxidatum.services.map((service): DailyBudgetLine => ({
     id: `taxidatum-${service.id}`, dayId: service.dayId, category: "traslado",
     title: `Taxidatum · ${service.title}`, amount: service.pen, currency: "PEN", status: "confirmado",

@@ -41,6 +41,8 @@ export function ShoppingGuide({ query = "" }: { query?: string }) {
         </button>)}
       </div>
 
+      <p className="mt-3 text-sm leading-6 text-stone-600">{shopping.scope}</p>
+
       <details className="group rounded-lg border border-cyan-200 bg-cyan-50/60 p-4" open>
         <summary className="flex min-h-7 cursor-pointer list-none items-center justify-between gap-3 font-semibold text-stone-900">Revisión específica de vasijas silbadoras <ChevronDown className="size-5 shrink-0 group-open:rotate-180" /></summary>
         <p className="mt-3 text-sm leading-6 text-stone-700">{shopping.vesselReview.summary}</p>
@@ -50,7 +52,7 @@ export function ShoppingGuide({ query = "" }: { query?: string }) {
 
       <details className="group rounded-lg border border-stone-200 bg-white p-4">
         <summary className="flex min-h-7 cursor-pointer list-none items-center justify-between gap-3 font-semibold text-stone-900">Precios de referencia y cómo compararlos <ChevronDown className="size-5 shrink-0 group-open:rotate-180" /></summary>
-        <p className="mt-3 text-sm leading-6 text-stone-600">{shopping.scope}</p>
+        
         <div className="mt-4 grid gap-3 md:grid-cols-2">{shopping.priceGuide.map((item) => <div key={item.title} className="rounded-md bg-stone-50 p-3"><h3 className="text-sm font-semibold text-stone-900">{item.title}</h3><p className="mt-2 text-sm leading-6 text-stone-600">{item.text}</p></div>)}</div>
         <div className="mt-4 overflow-x-auto rounded-md border border-stone-200" role="region" aria-label="Tabla de precios publicados" tabIndex={0}>
           <table className="w-full min-w-[600px] text-left text-sm">

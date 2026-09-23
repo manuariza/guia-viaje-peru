@@ -1,3 +1,15 @@
+# Cierre de compras · 23 septiembre 2026
+
+Guía para futuros viajes y archivo de la preparación. Resultado confirmado: Old Peru Replicas visitado, sin compra de huaco; flauta comprada en Cusco; ALQA visitado. Los horarios y precios de catálogo son referencias, no gastos realizados ni garantía de existencias.
+
+Mercado de San Pedro: mercado de abastos en Cascaparo, frente a la iglesia y estación de San Pedro, a unos 8–9 minutos andando de la Plaza de Armas. Inaugurado el 7 de junio de 1925; entrada libre. Interesa por productos regionales, pan, queso, café, chocolate, flores y recuerdos. Las fuentes oficiales publican horarios distintos (Perú Travel 06:00–17:00; MINCETUR 06:30–16:00): para futuras visitas, ir de día y confirmar la atención de los puestos. Los viajeros recuerdan un mercado en la tarde-noche del 18 de septiembre y lo recomiendan; lo llamaron «San Marcos», por lo que la identificación exacta sigue pendiente.
+
+Fuentes: [Perú Travel · San Pedro](https://www.peru.travel/es/atractivos/mercado-san-pedro) · [Inventario MINCETUR](https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6899)
+
+---
+
+# Guía anterior para referencia futura
+
 # Compras en Perú: mercados, charangos y vasijas silbadoras
 
 Actualizado: 6 septiembre 2026.

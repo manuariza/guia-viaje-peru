@@ -1,0 +1,151 @@
+{
+  "updated": "23 septiembre 2026",
+  "status": "Viaje completado · de vuelta en España",
+  "source": "Informe postviaje aportado por los viajeros y aclaraciones directas del 23 de septiembre de 2026.",
+  "days": {
+    "2026-09-08": {
+      "summary": "Lima: Puku Puku, San Francisco / Catacumbas e Isolina; Museo Larco descartado.",
+      "confirmed": [
+        "Parada por la mañana en Puku Puku Magdalena.",
+        "Visita a San Francisco y las Catacumbas, añadida en destino.",
+        "Comida en Isolina realizada.",
+        "Museo Larco eliminado del recorrido; no realizado."
+      ],
+      "uncertain": []
+    },
+    "2026-09-09": {
+      "summary": "Huaca Pucllana y La Mar, vuelo JA7007 y llegada a Arequipa.",
+      "confirmed": [
+        "Vuelo Lima → Arequipa JA7007 dentro del esquema previsto; estancia en Arequipa esa noche.",
+        "Huaca Pucllana visitada y comida en La Mar realizada."
+      ],
+      "uncertain": []
+    },
+    "2026-09-10": {
+      "summary": "Arequipa: Santa Catalina y cena en Zig Zag.",
+      "confirmed": [
+        "Monasterio de Santa Catalina visitado.",
+        "Cena en Zig Zag realizada.",
+        "La Nueva Palomino no realizada por falta de servicio ese jueves. Sol de Mayo se consultó, pero tampoco se comió allí.",
+        "Museo Santuarios Andinos (Juanita) descartado; no realizado."
+      ],
+      "uncertain": []
+    },
+    "2026-09-11": {
+      "summary": "Llegada a Tierra Viva Valle Sagrado y cena en SUNO.",
+      "confirmed": [
+        "Llegada y estancia en Tierra Viva Valle Sagrado.",
+        "El Huacatay no realizado. Los viajeros cenaron siempre en el restaurante SUNO de Tierra Viva durante su estancia."
+      ],
+      "uncertain": []
+    },
+    "2026-09-12": {
+      "summary": "Pisac, mercado, Inkariy y misa en Urubamba realizados.",
+      "confirmed": [
+        "Visita al complejo arqueológico de Pisac y al pueblo/mercado.",
+        "Museo Inkariy visitado: confirmación directa del viajero que resuelve la contradicción de los chats.",
+        "Boleto Turístico Integral comprado en Pisac: S/258 para dos más aproximadamente 2 € de recargo de tarjeta.",
+        "Misa de las 18:00 en San Pedro Apóstol de Urubamba realizada.",
+        "Cena en SUNO, restaurante del hotel Tierra Viva."
+      ],
+      "uncertain": []
+    },
+    "2026-09-13": {
+      "summary": "Chinchero, Tika, Moray, Mountain View y Maras; conductor ampliado.",
+      "confirmed": [
+        "Visitas a Chinchero, Textilería Tika, Moray y Salineras de Maras.",
+        "Comida en Mountain View Experience en lugar de UNU. Los viajeros destacan el lomo saltado entre los mejores del viaje, los jardines con llamas y alpacas y las vistas.",
+        "UNU no realizado.",
+        "Ampliación del conductor pagada a USD 10 por hora extra. El informe registra USD 30 adicionales sobre S/220; S/350 fue un total redondeado de referencia, no un gasto adicional.",
+        "Cena en SUNO, restaurante del hotel Tierra Viva."
+      ],
+      "uncertain": []
+    },
+    "2026-09-14": {
+      "summary": "Ollantaytambo, El Albergue y ALQA realizados; Pinkuylluna descartado.",
+      "confirmed": [
+        "Visita al Sitio Arqueológico de Ollantaytambo.",
+        "Comida en El Albergue Restaurant confirmada directamente por el viajero.",
+        "Visita a ALQA confirmada por los viajeros.",
+        "Pinkuylluna no realizado.",
+        "No se compró huaco/vasija silbadora durante el viaje.",
+        "Cena en SUNO, restaurante del hotel Tierra Viva."
+      ],
+      "uncertain": []
+    },
+    "2026-09-15": {
+      "summary": "Tren a Aguas Calientes, coche M y estancia en Taypikala.",
+      "confirmed": [
+        "Recogida Taxidatum a las 09:15, tarifa contratada S/75, y llegada al tren 43.",
+        "Inca Rail reasignó el coche B al coche M manteniendo los asientos 5 y 6.",
+        "Circuito 2: no reservado y no realizado.",
+        "Maletas grandes dejadas en la estación de Ollantaytambo; custodia utilizada sin problemas."
+      ],
+      "uncertain": []
+    },
+    "2026-09-16": {
+      "summary": "Machu Picchu, regreso a Ollantaytambo y llegada a Casa Cristóbal en Cusco.",
+      "confirmed": [
+        "Machu Picchu: Circuito 1, Ruta 1-D Puente Inka, entrada de las 08:00 y bus comprado; ejecución respaldada por evidencia muy fuerte.",
+        "Regreso en tren a Ollantaytambo y traslado a Cusco; llegada a Casa Cristóbal.",
+        "Cena en Chicha realizada, confirmada directamente por los viajeros."
+      ],
+      "uncertain": []
+    },
+    "2026-09-17": {
+      "summary": "Qorikancha, Catedral y San Blas; Chicha y Cicciolina.",
+      "confirmed": [
+        "Comida en Chicha: los viajeros repitieron porque les gustó mucho la cena del día anterior.",
+        "Cena en Cicciolina realizada, confirmada directamente por los viajeros.",
+        "Qorikancha, Catedral y San Blas visitados. Museo Inka no realizado.",
+        "Old Peru Replicas visitado. No se compró huaco/vasija silbadora.",
+        "Compra de una flauta en Cusco durante la estancia; día, tienda e importe no precisados."
+      ],
+      "uncertain": [
+        "No se ha confirmado compra de charango."
+      ]
+    },
+    "2026-09-18": {
+      "summary": "Cuatro recintos arqueológicos, LIMO y mercado en la última tarde en Cusco.",
+      "confirmed": [
+        "Comida en LIMO confirmada; los viajeros recuerdan el maki Volcán.",
+        "Sacsayhuamán, Qenqo, Puka Pukara y Tambomachay visitados.",
+        "Visita a un mercado de Cusco en la tarde-noche del último día; nombre exacto pendiente de confirmar entre San Pedro y San Blas."
+      ],
+      "uncertain": []
+    },
+    "2026-09-19": {
+      "summary": "Llegada a Inkaterra, Trochas de Concepción y Río de Noche.",
+      "confirmed": [
+        "Traslado temprano, vuelo SKY y llegada al lodge realizados en lo esencial.",
+        "Trochas de Concepción y Río de Noche realizados; se conserva la distribución del programa, sin cambios de fecha comunicados.",
+        "Custodia de maletas grandes de Inkaterra utilizada sin problemas."
+      ],
+      "uncertain": []
+    },
+    "2026-09-20": {
+      "summary": "Lago Sandoval, Canopy y Selva Oculta realizados.",
+      "confirmed": [
+        "Estancia en Inkaterra Hacienda Concepción.",
+        "Observación y fotografías de un insecto/escarabajo con dos puntos luminosos. No se fija una especie sin identificación confirmada.",
+        "Lago Sandoval, Canopy y Selva Oculta realizados; se conserva la distribución del programa, sin cambios de fecha comunicados."
+      ],
+      "uncertain": []
+    },
+    "2026-09-21": {
+      "summary": "Salida de Inkaterra y vuelos de regreso sin incidencias.",
+      "confirmed": [
+        "Salida de Inkaterra, vuelo LA2265 a Lima y conexión internacional sin incidencias, según los viajeros.",
+        "Equipaje internacional sin cargo en el regreso. También fue gratuito en la ida."
+      ],
+      "uncertain": []
+    },
+    "2026-09-22": {
+      "summary": "Regreso a España y viaje completado.",
+      "confirmed": [
+        "Regreso a España sin incidencias en los vuelos. Viaje completado."
+      ],
+      "uncertain": []
+    }
+  }
+}

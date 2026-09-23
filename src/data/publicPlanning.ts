@@ -1,7 +1,7 @@
 import cashPlan from "./cashPlan.json";
 import type { CriticalTask } from "../types";
 
-export const criticalTasks: CriticalTask[] = [
+export const historicalTasks: CriticalTask[] = [
   {"id": "jetsmart-checkin-completed", "title": "JetSMART · check-in completado para los dos", "due": "9 septiembre · embarque 18:45", "status": "confirmado", "risk": "low", "priority": "prioritario", "details": ["JA7007 Lima 19:35 → Arequipa 21:04. Check-in completado el 7 de septiembre y tarjetas emitidas.", "Una maleta de bodega de 23 kg y un bolso pequeño por persona; sin maleta de cabina adicional contratada.", "Asientos aleatorios conservados. Llevar las tarjetas guardadas y entregar las maletas en el mostrador."]},
   {
     id: "huaco-export-documents",
@@ -344,3 +344,6 @@ export const criticalTasks: CriticalTask[] = [
     ],
   },
 ];
+
+// La preparación queda archivada sin afirmar ejecución ni pago.
+export const criticalTasks: CriticalTask[] = historicalTasks.map(task => ({...task, status: "archivado", due: "Archivo · viaje completado", details: ["Planificación histórica anterior al viaje. Consultar la memoria diaria para saber qué se realizó.", ...task.details]}));

@@ -1,3 +1,5 @@
+import outcome from "./data/tripOutcome.json";
+import { TripOutcome } from "./components/TripOutcome";
 import { useMemo, useState } from "react";
 import * as Tabs from "@radix-ui/react-tabs";
 import { CheckCircle2, Copy, MapPinned, RefreshCw, ShieldCheck } from "lucide-react";
@@ -41,8 +43,8 @@ const mapFilters: MapFilterState = {
   status: "all",
 };
 
-const dataVersion = "2026-09-07.1";
-const dataUpdatedLabel = "7 septiembre 2026 · bus pagado y check-in completado";
+const dataVersion = "2026-09-23.final";
+const dataUpdatedLabel = "23 septiembre 2026 · viaje completado";
 
 function includesQuery(values: string[], query: string) {
   if (!query) return true;
@@ -111,6 +113,7 @@ export default function App() {
             day.date,
             day.base,
             day.summary,
+            JSON.stringify(outcome.days[day.id as keyof typeof outcome.days] ?? {}),
             ...day.activities,
             ...day.foods,
             ...day.shopping,
@@ -122,7 +125,7 @@ export default function App() {
     [query],
   );
 
-  const isClosedTask = (task: CriticalTask) => ["confirmado", "pagado"].includes(task.status);
+  const isClosedTask = (task: CriticalTask) => ["confirmado", "pagado", "archivado"].includes(task.status);
   const keyTasks = criticalTasks.filter((task) => task.priority === "prioritario" && !isClosedTask(task));
   const priorityTasks = criticalTasks.filter(
     (task) => task.priority === "prioritario" && !isClosedTask(task),
@@ -173,6 +176,7 @@ export default function App() {
           </div>
         </header>
 
+        <TripOutcome />
         <div className="grid gap-4 xl:grid-cols-[1fr_380px]">
           <SearchInput value={query} onChange={setQuery} />
           <div className="grid grid-cols-2 gap-2">
@@ -262,7 +266,7 @@ export default function App() {
         </Tabs.Content>
 
         <Tabs.Content value="dias" className="space-y-6 outline-none">
-          <SectionHeader title="Día a día" description="Cronología completa con horarios, transportes, comidas y planes B." />
+          <SectionHeader title="Día a día" description="Memoria del viaje y planificación histórica, con el grado de confirmación de cada visita." />
           <Timeline days={filteredDays} onOpen={openDetail} />
         </Tabs.Content>
 
@@ -289,7 +293,7 @@ export default function App() {
         <Tabs.Content value="pendientes" className="space-y-6 outline-none">
           <SectionHeader
             title="Preparación del viaje"
-            description="Lista reutilizable de compras, reservas y comprobaciones recomendadas."
+            description="Preparación histórica del viaje. Las tareas archivadas no son acciones pendientes ni prueba de ejecución."
           />
 
           <section className="rounded-lg border border-stone-200 bg-white p-4">

@@ -1,3 +1,7 @@
+# Cierre del viaje · 23 septiembre 2026
+
+Viaje completado del 8 al 22 de septiembre, con regreso a España. La memoria diaria distingue hechos confirmados, incertidumbres y planificación histórica. La guía pública conserva exclusivamente información de viaje sin incidencias personales.
+
 # Guía de viaje a Perú
 
 Itinerario reutilizable de dos semanas por Lima, Arequipa, el Valle Sagrado, Machu Picchu, Cusco y la Amazonía peruana.

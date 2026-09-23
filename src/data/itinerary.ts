@@ -581,4 +581,5 @@ export const itinerary: DayPlan[] = [
     transferIds: ["inkaterra-pem", "pem-lim", "lim-mad"],
     photoIds: ["amazon", "lima"],
   },
+  {"id": "2026-09-22", "date": "Mar 22 sep", "base": "España", "summary": "Regreso a España y viaje completado.", "blocks": ["Llegada a España tras el vuelo internacional. Sin incidencias según los viajeros."], "activities": ["Fin del viaje"], "foods": [], "orderTips": [], "shopping": [], "effort": "logístico", "altitude": "—", "planB": "Viaje finalizado.", "hotelIds": [], "transferIds": [], "photoIds": []},
 ];

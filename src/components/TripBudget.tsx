@@ -153,7 +153,7 @@ export function TripBudget({ days }: { days: DayPlan[] }) {
     {
       label: "Vuelos",
       value: flightLines.reduce((total, line) => total + toEur(line), 0),
-      note: `${formatOriginalTotals(flightLines)} · incluye ${formatCurrency(estimatedEur, "EUR")} estimados de maletas`,
+      note: `${formatOriginalTotals(flightLines)} · incluye equipaje internacional sin cargo`,
       icon: <Plane className="size-4" />,
     },
     {
@@ -169,9 +169,9 @@ export function TripBudget({ days }: { days: DayPlan[] }) {
       icon: <Train className="size-4" />,
     },
     {
-      label: "Machu Picchu",
+      label: "Entradas y visitas",
       value: entryLines.reduce((total, line) => total + toEur(line), 0),
-      note: `${formatOriginalTotals(entryLines)} · 2 entradas`,
+      note: `${formatOriginalTotals(entryLines)} · partidas de entradas`,
       icon: <Ticket className="size-4" />,
     },
     {
@@ -194,10 +194,10 @@ export function TripBudget({ days }: { days: DayPlan[] }) {
             </span>
             <span className="inline-flex items-center gap-1.5 rounded-full bg-emerald-400/15 px-2.5 py-1 text-xs font-semibold text-emerald-200">
               <CheckCircle2 className="size-3.5" />
-              Presupuesto de referencia
+              Referencia de costes de referencia
             </span>
           </div>
-          <p className="mt-7 text-sm text-stone-300">Total previsto para 2 personas</p>
+          <p className="mt-7 text-sm text-stone-300">Referencia acumulada para 2 personas</p>
           <p className="mt-1 text-4xl font-semibold tracking-tight tabular-nums">≈ {formatCurrency(totalEur, "EUR")}</p>
           <p className="mt-2 text-sm text-stone-400">≈ {formatCurrency(totalEur / 2, "EUR")} por persona</p>
           <p className="mt-3 text-xs leading-5 text-stone-400">

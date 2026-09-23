@@ -27,7 +27,7 @@ export function HeroSummary({
           <p className="mt-4 text-base leading-7 text-stone-600 md:text-lg">
             {"Madrid -> Lima -> Arequipa -> Valle Sagrado -> Machu Picchu -> Cusco -> Amazonía -> Lima -> Madrid"}
           </p>
-          <p className="mt-3 text-sm font-medium text-stone-500">8 septiembre - 22 septiembre 2026 · 2 adultos</p>
+          <p className="mt-3 text-sm font-medium text-stone-500">8 septiembre - 22 septiembre 2026 · 2 adultos · viaje completado</p>
         </div>
 
         <div className="mt-8 grid gap-3 sm:grid-cols-2 xl:grid-cols-3">

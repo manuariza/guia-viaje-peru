@@ -1,3 +1,5 @@
+import { TripOutcome } from "./TripOutcome";
+import outcome from "../data/tripOutcome.json";
 import { BookOpen, Calendar, ChevronDown, ExternalLink, Hotel as HotelIcon, Route, Utensils } from "lucide-react";
 import type { MouseEvent } from "react";
 import type { DayPlan, Hotel, LinkItem, Photo, Transfer } from "../types";
@@ -61,7 +63,7 @@ function buildDayDetail(day: DayPlan): DetailPayload {
   return {
     title: `${day.date} · ${day.base}`,
     eyebrow: "Día a día",
-    description: day.summary,
+    description: outcome.days[day.id as keyof typeof outcome.days]?.summary ?? day.summary,
     location: `${day.altitude} · esfuerzo ${day.effort}`,
     photos: uniquePhotos([...dayPhotos, ...nightHotels.flatMap((hotel) => hotel.photos), ...foodPhotos]),
     links: [
@@ -73,7 +75,9 @@ function buildDayDetail(day: DayPlan): DetailPayload {
       ...(day.shoppingLinks ?? []),
     ],
     sections: [
-      { title: "Horario", items: day.blocks },
+      { title: "Resultado del viaje", items: outcome.days[day.id as keyof typeof outcome.days]?.confirmed ?? [] },
+      { title: "Por aclarar", items: outcome.days[day.id as keyof typeof outcome.days]?.uncertain ?? [] },
+      { title: "Plan original (histórico)", items: day.blocks },
       {
         title: "Noche / hotel",
         items: nightHotels.length
@@ -146,7 +150,7 @@ export function DayCard({
           <div className="min-w-0">
             <p className="text-xs font-semibold uppercase text-stone-500">{day.date}</p>
             <h3 className="mt-1 text-lg font-semibold text-stone-950 sm:text-xl">{day.base}</h3>
-            <p className="mt-2 text-sm leading-6 text-stone-600">{day.summary}</p>
+            <p className="mt-2 text-sm leading-6 text-stone-600">{outcome.days[day.id as keyof typeof outcome.days]?.summary ?? day.summary}</p>
             <span className="mt-3 inline-flex min-h-8 items-center gap-2 rounded-md border border-stone-200 bg-stone-50 px-2.5 text-xs font-semibold text-stone-600">
               <Calendar className="size-4" />
               {day.effort}
@@ -167,8 +171,11 @@ export function DayCard({
 
           <div className="p-3.5 md:p-5">
           <div>
-            <h4 className="mb-3 text-xs font-semibold uppercase text-stone-500">Orden del día</h4>
-            <ScheduleList items={day.blocks} compact />
+            <TripOutcome dayId={day.id} />
+            <details className="rounded-md border border-stone-200 p-3">
+              <summary className="cursor-pointer text-xs font-semibold uppercase text-stone-500">Plan original · referencia histórica</summary>
+              <div className="mt-3"><ScheduleList items={day.blocks} compact /></div>
+            </details>
           </div>
 
           <section className="mt-5 rounded-lg border border-stone-200 bg-stone-50 p-3">

@@ -5,7 +5,8 @@ export type RiskLevel = "low" | "medium" | "high";
 export type ReservationStatus =
   | "pendiente"
   | "confirmado"
-  | "pagado";
+  | "pagado"
+  | "archivado";
 
 export type EffortLevel = "suave" | "medio" | "alto" | "logístico";
 

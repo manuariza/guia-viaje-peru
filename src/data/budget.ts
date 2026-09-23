@@ -9,6 +9,9 @@ export const planningRatesToEur: Record<BudgetCurrency, number> = {
 
 
 export const dailyBudgetLines: DailyBudgetLine[] = [
+ {id:"tourist-ticket-actual",dayId:"2026-09-12",category:"entrada",title:"Boleto Turístico Integral · referencia del viaje",amount:258,currency:"PEN",status:"confirmado",note:"Importe real referido para dos, frente a S/260 previstos. Verificar tarifas para futuros viajes."},
+ {id:"tourist-ticket-card-fee",dayId:"2026-09-12",category:"entrada",title:"Recargo de tarjeta aproximado",amount:2,currency:"EUR",status:"confirmado",estimated:true,note:"Referencia aproximada del viaje, no tarifa garantizada."},
+ {id:"taxidatum-extra-13",dayId:"2026-09-13",category:"traslado",title:"Suplemento transporte día 13",amount:30,currency:"USD",status:"confirmado",note:"Adicional a S/220. S/350 fue el total redondeado, no otra partida. Ampliación del conductor a USD 10 por hora extra."},
 {"id": "consettur-paid", "dayId": "2026-09-16", "category": "traslado", "title": "Bus Camino a la Maravilla ida y vuelta · 2 adultos", "amount": 48, "currency": "USD", "status": "pagado", "note": "Compra pagada el 7 de septiembre de 2026. Dos billetes de adulto extranjero para el 16; no volver a comprar."},
   ...taxidatum.services.map((service): DailyBudgetLine => ({
     id: `taxidatum-${service.id}`, dayId: service.dayId, category: "traslado",
@@ -29,12 +32,12 @@ export const dailyBudgetLines: DailyBudgetLine[] = [
     id: "intl-checked-bags-outbound",
     dayId: "2026-09-08",
     category: "vuelo",
-    title: "Estimación maletas facturadas Madrid - Lima · 2 × 23 kg",
-    amount: 120,
+    title: "Maletas facturadas sin cargo Madrid - Lima · 2 × 23 kg",
+    amount: 0,
     currency: "EUR",
     status: "confirmado",
-    estimated: true,
-    note: "El itinerario presupone dos maletas facturadas; sustituir esta estimación por la tarifa real de la reserva elegida.",
+    estimated: false,
+    note: "Sin cobro en ida ni vuelta, confirmado por los viajeros. Sustituye la estimación histórica de 120 EUR por trayecto.",
   },
   {
     id: "intermundial-totaltravel-reference",
@@ -101,10 +104,10 @@ export const dailyBudgetLines: DailyBudgetLine[] = [
     dayId: "2026-09-10",
     category: "entrada",
     title: "Museo Santuarios Andinos · 2 adultos extranjeros",
-    amount: 50,
+    amount: 0,
     currency: "PEN",
-    status: "pendiente",
-    note: "Comprar en taquilla el día de la visita; no requiere prepago.",
+    status: "archivado",
+    note: "Visita descartada; no realizada. Los S/50 previstos se eliminan del acumulado.",
   },
   {
     id: "yanahuara-uber",
@@ -232,12 +235,12 @@ export const dailyBudgetLines: DailyBudgetLine[] = [
     id: "cusco-historic-tickets",
     dayId: "2026-09-17",
     category: "entrada",
-    title: "Qorikancha + Circuito Religioso + Museo Inka · 2 personas",
-    amount: 180,
+    title: "Qorikancha + Circuito Religioso · 2 personas",
+    amount: 140,
     currency: "PEN",
-    status: "pendiente",
+    status: "confirmado",
     estimated: true,
-    note: "Compra presencial. Presupuesto conservador: Qorikancha S/40, Circuito Religioso S/100 si mantiene S/50 por persona e incluye Catedral y San Blas, y Museo Inka S/40 en efectivo. Llevar S/200.",
+    note: "Qorikancha, Catedral y San Blas realizados. Referencia histórica S/140 para dos, no gasto final comprobado. Museo Inka no realizado: se excluyen sus S/40 del cálculo anterior de S/180.",
   },
   {
     id: "casa-cristobal-night-3",
@@ -326,12 +329,12 @@ export const dailyBudgetLines: DailyBudgetLine[] = [
     id: "intl-checked-bags-return",
     dayId: "2026-09-21",
     category: "vuelo",
-    title: "Estimación maletas facturadas Lima - Madrid · 2 × 23 kg",
-    amount: 120,
+    title: "Maletas facturadas sin cargo Lima - Madrid · 2 × 23 kg",
+    amount: 0,
     currency: "EUR",
     status: "confirmado",
-    estimated: true,
-    note: "El itinerario presupone dos maletas facturadas; sustituir esta estimación por la tarifa real de la reserva elegida.",
+    estimated: false,
+    note: "Sin cobro en ida ni vuelta, confirmado por los viajeros. Sustituye la estimación histórica de 120 EUR por trayecto.",
   },
   {
     id: "lim-mad-flight-included",
@@ -346,7 +349,7 @@ export const dailyBudgetLines: DailyBudgetLine[] = [
   },
 ];
 
-export const pendingBudgetLines: PendingBudgetLine[] = [
+export const historicalPendingBudgetLines: PendingBudgetLine[] = [
   {
     id: "cash-withdrawal-plan", date: "8–18 sep", title: "Sacar efectivo en cajero con una Revolut",
     note: "Pendiente. Presupuesto de efectivo orientativo S/3.000 para los dos, con S/1.159 de Taxidatum ya incluidos. No sumar esta retirada como un gasto adicional. Comisión ilustrativa ≈11 € con Standard, 1 € = S/4, asignación intacta, MultiRed sin recargo y entre semana; comprobar plan, reinicio y uso real. Banca March solo como respaldo.",
@@ -391,7 +394,7 @@ export const budgetItems: BudgetItem[] = [
   {
     category: "Traslados privados",
     range: "Taxidatum confirmado · S/1.159",
-    notes: "Siete servicios por vehículo para dos, pendientes de pagar en efectivo. Contabilizados una sola vez en el coste de cada día. Aclarar la duración del día 13.",
+    notes: "Siete servicios contratados por vehículo para dos. Referencia base contabilizada una sola vez; liquidación completa no desglosada. El día 13 tuvo USD 30 adicionales a USD 10 por hora extra.",
   },
   {
     category: "Seguro de viaje",
@@ -410,3 +413,5 @@ export const totalBudget = {
   range: "≈ " + dailyBudgetLines.reduce((sum, line) => sum + (line.included ? 0 : line.amount * planningRatesToEur[line.currency]), 0).toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " €",
   scope: "2 personas",
 };
+
+export const pendingBudgetLines: PendingBudgetLine[] = [{id:"reference-only",date:"Viaje completado",title:"Presupuesto de referencia",note:"No es un gasto final auditado. Los importes variables no documentados y las estimaciones deben revisarse antes de reutilizar la guía."}];

@@ -21,3 +21,7 @@ bun run build
 ```
 
 La rama `main` se publica automáticamente en GitHub Pages mediante GitHub Actions.
+
+## Mantenimiento de seguridad · 21 octubre 2026
+
+Vite 8.0.13 → 8.3.5 y source-map-js 1.2.2 corrigen los avisos de seguridad del entorno de construcción. Se mantiene Bun 1.3.8, el enlace aislado y la política habitual de siete días; el propietario autorizó una excepción solo para este incidente. No se incorpora contenido del repositorio privado del viaje. Validación: auditoría completa de Bun, TypeScript y construcción de producción.
